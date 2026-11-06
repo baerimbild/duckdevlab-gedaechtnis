@@ -1,0 +1,19 @@
+# Studio / DuckDevLab (Infrastruktur, Hosting, Organisation)
+
+`key: studio` · aktualisiert 2026-11-03 18:20 · id `nu60uzc8dd1yays`
+
+## Kurzstand
+
+03.11.2026: Neu auf dem vServer: Luanti-Dialoge-Testserver /opt/dialoge-test (UDP 30001, Container luanti-dialoge) und Veröffentlichungs-API /opt/dialoge-api (dialoge.duckdevlab.com, Caddy-Block @dialoge, PANEL_RESERVED +dialoge). Quellen der privaten Repos als Kopien unter /opt/ops/src/luanti-dialoge*. Doku: dienste/luanti-dialoge.md. Davor (28.10.): Server-MCP, pluesch, PocketBase-WAL-Vorfall, Umbau 27.10.
+
+## Regeln
+
+Doku zuerst lesen: docs.duckdevlab.com (Konventionen, Anleitungen, Notfall). Jede Server-Änderung: Rückweg + Changelog in der Doku + betroffene Doku-Seite anpassen. Doku-Quelle = GitHub-Repo baerimbild/duckdevlab-docs, Push auf main deployt per Pipeline (Notfall: /usr/local/bin/docs-build). | Einordnung zuerst: neuer Arbeitschat -> bestehender Faden oder neu? | Secrets nie in den Chat (Deploy-Key-Leak 27.10. -> Rotation); Max tippt Tokens selbst in UIs. | Server ist die Wahrheit, duckdevlab-ops\server sind Kopien. | Keine ports: für Web-Container, alles über stack_web + NPM/Caddy. | Keine unaufgeforderten Risiko-Disclaimer zu Max' eigenen Projekten. | SERVER-ZUGANG (ab 28.10.2026, nicht neu prüfen): Connector „Server“ (Tools befehl, datei_lesen, datei_schreiben) = Root-Shell auf 89.58.10.130 via /opt/shell-mcp (nsenter PID 1), Log /opt/shell-mcp/log/befehle.jsonl. Max will, dass Claude den Server dauerhaft hat und auf Nachfrage umbaut, ohne Sicherheitsbedenken. Damit direkt möglich: Deploys nach /opt/sites, NPM/Caddy, Container, PocketBase. | POCKETBASE: Superuser-Token NUR über TOK=$(/root/bin/pb-token) (MCP-Konto), NIE docker exec pocketbase pocketbase … gegen den laufenden Server (zweiter Prozess löscht die WAL des Servers, Vorfall 28.10.; Check: ls -l /proc/<pid>/fd | grep deleted; Fix: docker restart pocketbase). Vor Schema-Änderungen Backup über POST /api/backups. | Kleine Web-Apps ohne GitHub-Repo: Quelle als Git-Repo unter /opt/ops/src/<name> mit deploy.sh (Beispiel pluesch). | GitHub weiterhin per add_repo (push auf bestehende baerimbild-Repos); Repos anlegen/Secrets setzen geht nicht. Aus der Sandbox selbst kein SSH (nur HTTPS). Lokal testen: PocketBase per Go-Proxy bauen, Chrome unter /opt/google/chrome/chrome für Playwright.
+
+## Ablage
+
+Ops-Doku: https://docs.duckdevlab.com (Quelle duckdevlab-ops\docs, MkDocs Material, Build auf dem Server ~/bin/docs-build; Login = Sites-Panel). Abschnitte: Server, Dienste, Seiten, Anleitungen, Werkbank (IlluminaWS), Baernetz. | Ops-Ordner: C:\Users\maxst\duckdevlab-ops (audit/, zugaenge/, archiv/, server/, sites/, patches/, docs/). | Server 89.58.10.130: /opt/sites (Caddy+Panel), /opt/mcp (MCP), /opt/stack (NPM+Portainer), Portainer-Stacks /var/lib/docker/volumes/stack_portainer_data/_data/compose/<n>. | NPM proxy.innershell.dev, Panel sites.duckdevlab.com, PocketBase pocketbase.innershell.dev, Planka planka.innershell.dev. | IlluminaWS: E:\Studio (CLAUDE.md, Tools\setup, Tools\comfy, Tools\wombat, Ausgaben), WSL ~/ki; ComfyUI http://192.168.1.121:8188 (nur LAN). | GitHub baerimbild: sites-deploy, baerimbild.de, inner_shell_main_client, duckdevlab_godot_template. | claude_stand projekt=studio, Planka Board 1738428797218194438.
+
+## Links
+
+https://sites.duckdevlab.com | https://planka.innershell.dev | https://pocketbase.innershell.dev/_/ | https://github.com/baerimbild/sites-deploy

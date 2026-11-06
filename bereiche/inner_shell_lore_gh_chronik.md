@@ -1,0 +1,20 @@
+# Inner Shell · Lore (Vault) · Chronik / Zeitalter
+
+`key: inner_shell_lore_gh_chronik` · aktualisiert 2026-11-04 22:02 · id `d7c9urlae0r7xaj`
+
+## Kurzstand
+
+ANGELEGT 04.11.2026, 23:12 – Quelle: duckdevlab_vault, 00_BASICS/TIMELINE.md (+ v0.1 §9 wo abweichend markiert)
+ZEITALTER DER MENSCHEN (Alpha-Kosmoid): ~300.000 v. Chr. menschliches Bewusstsein … 2030 China + westliche Industrielle beschließen Mars-Erschließung/Terraforming. 2100 „Die Gemeinschaft“ führende supranationale Entität; Erde ökologisch/ökonomisch im Niedergang; Mars funktional autonom, Wachstum nur durch Zuzug. 2150 Strukturen auf dem Mars entdeckt → „Das Programm“ beginnt. 2223 Kollaps des Alpha-Kosmoiden; „das Surrogat entsteht und vergeht (Antitheton)“; Omnibär formt das Urschl; winzige Erinnerung an das Surrogat überlebt.
+IMMERDAR: Urschl erkundet, erzeugt den Kosmoid des Drachen.
+KOSMOID DES DRACHEN:
+- Ursprung (0–300): Welteiche erschafft ungerichtet Kreaturen aus dem Unterbewusstsein des Drachen und den Willen des Kosmoiden. Drache prägt die Tavari („Das Licht des Drachen gibt uns Farbe und Richtung“ – Pad, Chronist der Zeitalter). Tavari + Simianer = Hochkultur der Umakari; verehren den Drachen, der sie ignoriert.
+- Prüfung (300–2223): Substrat-Einfluss wächst; Drache beschließt, die Schöpfung neu und „bekömmlich, ohne bewusstseinsfähigen Ballast“ zu erschaffen; öffnet das Auge (Wurmloch), kocht die Ursuppe. Umakari bauen Sternthal und die Traumstehle; Cre-An deuten: in 1000 Jahren zieht der Drache die Sonne ins Wurmloch, es sei denn, die Umakari erweisen sich als Schöpfer/Bewahrer. → SPHÄRENPROJEKT: Sphäre um den Planeten, neue Oberfläche außen, Kernplanet wird Sonne, Innenwände bewohnbar, Monumente integriert; vier Weltraumaufzüge (der „Speer“ bleibt), Ringstation, Ring aus Ringschiffen.
+- Licht (2223): Sonne verschwindet, Sphäre fertig, keine Reaktion des Drachen. Simianer enttäuscht, Tavari brauchen keine Antwort. Cre-An forschen weiter; andere Cre ziehen sich in die Kernhabitate zurück und unterstützen Ross, Fenn, Schwebschnabler. Tavari bauen die Vex-Städte. Einige Ky fliegen mit obsoleten Ringschiffen ins Universum.
+- Bruch: Cre-An erkennen die Krankheit. Zitat Kon (erste Feder des blauen Flügels) über Nan („Häresie!“) und Colon (Deuter der Cre-An): „wir Tavari … wissen, sie … müssen glauben.“ Ca. 80 % der Simianer überzeugt, kaum Tavari. Speise → Fall (siehe _gh_drache_niv). Mentaler Bruch bis ins Immerdar spürbar → DIL entstehen in der Kluft. Urschl beschließt, „seinem“ Kosmoid zu helfen. Simianer fliehen über den Speer in die Ringstation. Tavari verlieren durch Schock die meisten Erinnerungen. Einige Ky verstecken sich.
+- Erstes Zeitalter: Substrat in der Welteiche, Mond als Schutzwall. Flügel des Geistes verschließt das Loch im Norden mit dem Eiskontinent NIMMERTAU, Zugang zur Kernsphäre verboten. Vex Ala gilt als verschollen, Vex Ferrum wird neues Zentrum der Flügelinseln.
+- +2 Generationen: Tavarische Union gegründet; nur alte Tavari lesen die Glyphen; Doktrin „Blick nach vorn“ (Relikte eingelagert/entfernt); Flügel des Wandels darf nicht mehr archäologisch forschen.
+- +5 Generationen: Flotte der Hegemonie bombardiert Wurmloch und Planeten; als die Welteiche angegriffen wird, zerschmettert der Mond die Flotte. Flügel des Geistes: alter Feind; Eiserner Flügel in Kernlicht; Schild aus der Schimmerschicht (seitdem milchiger Himmel, keine Sterne). Verbote für Mautrasien (Speer-Technik, bemannte Schiffe, Schimmersee-Tiefen). Doktrin der Rückkehr: in 100 Jahren ruft der Drache, Vex Topolis wird Weltenschiff. Regelmäßige Blitze am Himmel; simianische Agenten werden entwaffnet und zurückgeschickt. Niv zieht in den Riesenbaum. AMARA und VESPER treten eine Flugreise an und finden sich im Wurzelwald wieder.
+Claude-Kommentar (23:12):
+- 2223 taucht zweimal auf: als Untergangsjahr des Alpha-Kosmoiden und als Ende der „Prüfung“ (Sonne weg) im Drachen-Kosmoid. Wirkt wie bewusster Reim – ein Trauma-Jahr, das sich wiederholt. → Frage.
+- Zur Ursuppe: Der Drache will „ohne bewusstseinsfähigen Ballast“ neu kochen – das ist exakt die erste Menschheit („Transzendenz nicht für alle“).
