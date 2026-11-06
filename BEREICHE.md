@@ -42,5 +42,5 @@
 | [inner_shell_wesen_niv](bereiche/inner_shell_wesen_niv.md) | Inner Shell · Wesenheit · Niv (Tavari) | 2026-11-04 |
 | [makermon](bereiche/makermon.md) | Makermon (MakerDays-Kinderprojekt) | 2026-11-02 |
 | [materia_prima_lore](bereiche/materia_prima_lore.md) | Materia Prima · Lore (altes Universum von Max) | 2026-11-04 |
-| [register](bereiche/register.md) | Register – Geräte, Claude-Instanzen, Rechte, Repos (vor „ich kann das nicht“ lesen) | 2026-11-03 |
+| [register](bereiche/register.md) | Register – Geräte, Claude-Instanzen, Rechte, Repos (vor „ich kann das nicht“ lesen) | 2026-11-06 |
 | [studio](bereiche/studio.md) | Studio / DuckDevLab (Infrastruktur, Hosting, Organisation) | 2026-11-03 |

@@ -1,6 +1,6 @@
 # Broken Shell · Spiel (Souls-like-Prototyp, Godot) – Konzept, Figur e, Ablage
 
-`key: broken_shell_spiel` · aktualisiert 2026-11-06 19:47 · id `mi9136t1cwn2q2m`
+`key: broken_shell_spiel` · aktualisiert 2026-11-06 20:22 · id `mi9136t1cwn2q2m`
 
 ## Kurzstand
 
@@ -12,8 +12,8 @@ Setzungen von Max ohne Marke, Anschlüsse von Claude mit (V) kennzeichnen. Keine
 
 ## Ablage
 
-GDD (vollständig, Stand 26.10.): claude.ai-Projekt „frühstück mit opus“ → Projektdoku broken_shell/Broken_Shell_Spiel_GDD.md. Eröffnungsszene als Script: broken_shell/opening.gd.md (dort). Godot-Prototyp komplett (spiel_prototyp/ mit opening/, README) als Zip an Max geschickt (06.11.) → Ziel E:\Studio\Projekte\broken-shell (noch kein GitHub-Repo, anlegen!). Weltfakten fürs Spiel: Broken_Shell_Lore.md Abschnitt „Nach dem Zyklus“ (Planka-Backup / Gesamtpaket-Zip; Lore inhaltlich auch in den Bereichen broken_shell_lore…lore_6). Stimme e: E:\Studio\Ausgaben\audio\stimme_e\e_REFERENZ_v1.wav + .txt (Beschreibung, ref_text), Skripte E:\Studio\Tools\setup\11–15_wsl_stimme_e*.sh. Melodie: E:\Studio\Ausgaben\audio\abendlied_73.{mid,wav}, abendlied_fuer_julia.mid, Quelle Tools\setup\abendlied.py. Teaser: E:\Studio\Ausgaben\video\broken_shell_teaser_v1/v2.mp4, Stills E:\Data\Images\Text2Img\broken_shell\teaser2. Pipeline-Doku: https://docs.duckdevlab.com/werkbank/stimme-musik/ und /werkbank/comfyui/. Faden: claude_stand hnmjllgnde31ut6 (Opening-Teaser).
+SEIT 06.11.2026 21:30 – QUELLE DER WAHRHEIT FÜR DATEIEN: GitHub-Repo baerimbild/broken-shell (privat; Klon auf dem vServer /opt/ops/src/broken-shell, Commit 9c01e32): Broken_Shell_Lore.md, Broken_Shell_Sprachguide.md, Broken_Shell_Spiel_GDD.md, geschichten/ (37 Geschichten), deckblaetter/ (SVG + PNG/JPG/WebP + MANIFEST), buch/Broken_Shell.pdf (A5, 25.10.), spiel_prototyp/ (Godot 4, inkl. opening/), szene_audio/, blaupause/, verworfen/. Vom Server aus: git clone git@github.com-server:baerimbild/broken-shell.git. | Zusätzlich (ältere Kopien): claude.ai-Projektdoku broken_shell/Broken_Shell_Spiel_GDD.md + opening.gd.md; Zip an Max (06.11.) für E:\Studio\Projekte\broken-shell. | Lore inhaltlich auch in den Bereichen broken_shell_lore…lore_6. | Stimme e: E:\Studio\Ausgaben\audio\stimme_e\e_REFERENZ_v1.wav + .txt (Beschreibung, ref_text), Skripte E:\Studio\Tools\setup\11–15_wsl_stimme_e*.sh. Melodie: E:\Studio\Ausgaben\audio\abendlied_73.{mid,wav}, abendlied_fuer_julia.mid, Quelle Tools\setup\abendlied.py. Teaser: E:\Studio\Ausgaben\video\broken_shell_teaser_v1/v2.mp4, Stills E:\Data\Images\Text2Img\broken_shell\teaser2. Pipeline-Doku: https://docs.duckdevlab.com/werkbank/stimme-musik/ und /werkbank/comfyui/. Faden: claude_stand hnmjllgnde31ut6 (Opening-Teaser).
 
 ## Links
 
-https://docs.duckdevlab.com/werkbank/stimme-musik/
+https://github.com/baerimbild/broken-shell | https://docs.duckdevlab.com/werkbank/stimme-musik/

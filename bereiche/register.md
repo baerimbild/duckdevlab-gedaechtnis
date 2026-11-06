@@ -1,18 +1,23 @@
 # Register – Geräte, Claude-Instanzen, Rechte, Repos (vor „ich kann das nicht“ lesen)
 
-`key: register` · aktualisiert 2026-11-03 07:10 · id `5sr5fbfrkowiwwr`
+`key: register` · aktualisiert 2026-11-06 20:14 · id `5sr5fbfrkowiwwr`
 
 ## Kurzstand
 
-03.11.2026 angelegt im Audit. Jede Instanz liest dieses Register, bevor sie behauptet, etwas nicht zu können, und trägt sich ein, wenn sie neu eingerichtet wird. Rechte-Entscheidungen von Max vom 03.11.: wombat volles sudo; WSL darf KI-Dienste starten/stoppen, Pakete installieren, Reachy-Agent deployen; Desktop-App auf IlluminaWS für Ordnerzugriff E:\Studio und Computer-Steuerung (Godot, Blender, ComfyUI). Repos: Stand 03.11. keine offenen PRs, aber viele gemergte Branches liegen herum.
+06.11.2026: vServer hat jetzt ausgehendes SSH/Git zu GitHub (account-weiter Key, Max' Entscheidung 06.11.); /opt/ops/docs/src ist ein echter Klon von duckdevlab-docs; tägliches Backup + Gedächtnis-Export laufen. — 03.11.2026 angelegt im Audit. Jede Instanz liest dieses Register, bevor sie behauptet, etwas nicht zu können, und trägt sich ein, wenn sie neu eingerichtet wird. Rechte-Entscheidungen von Max vom 03.11.: wombat volles sudo; WSL darf KI-Dienste starten/stoppen, Pakete installieren, Reachy-Agent deployen; Desktop-App auf IlluminaWS für Ordnerzugriff E:\Studio und Computer-Steuerung (Godot, Blender, ComfyUI). Repos: Stand 03.11. keine offenen PRs, aber viele gemergte Branches liegen herum.
 
 ## Regeln
 
+NACHTRAG 06.11.2026 (Max' Entscheidung: Zugang vor Vorsicht):
+- vServer (Zeile 1) DARF jetzt ausgehend per SSH/Git zu GitHub: Key /root/.ssh/id_ed25519_github_server, Host-Alias `github.com-server` (git@github.com-server:baerimbild/<repo>.git), als SSH-Key im Account baerimbild hinterlegt → Lesen und Pushen auf ALLE baerimbild-Repos. Damit braucht Claude für Repo-Arbeit keine claude.ai-GitHub-Freigabe mehr: über den Connector „Server“ klonen, committen, pushen. Repos ANLEGEN geht per SSH nicht (nur Max, GitHub-UI).
+- /opt/ops/docs/src ist seit 06.11. ein Klon von duckdevlab-docs (vorher stale Kopie, Divergenz behoben, Backup /opt/ops/docs/src.bak-2026-11-06). Doku ändern = dort editieren, committen, pushen; `docs-build` baut zusätzlich sofort.
+- Backup: /usr/local/bin/backup-duckdevlab.sh täglich 03:30 → /var/backups/duckdevlab/<datum>, 14 Tage. Gedächtnis-Export: /usr/local/bin/gedaechtnis-export.py → /opt/ops/gedaechtnis (Git, Remote baerimbild/duckdevlab-gedaechtnis – Repo muss Max noch anlegen).
+
 GERÄTE UND INSTANZEN (Gerät | Instanz | Zuständigkeit | Rechte | Darf nicht)
 
-1. vServer 89.58.10.130 (Netcup, Debian, Docker) | Connector „Server“ in jeder Claude-Session (Tools befehl, datei_lesen, datei_schreiben) | Deploys nach /opt/sites, Container, PocketBase, NPM/Caddy, Doku-Build | Root über /opt/shell-mcp (nsenter PID 1), Log /opt/shell-mcp/log/befehle.jsonl; PocketBase-Superuser-Token nur über TOK=$(/root/bin/pb-token) | Repos anlegen, GitHub-Secrets setzen, kein gh auf dem Server, kein ausgehendes SSH; nie docker exec pocketbase gegen den laufenden Server (WAL-Vorfall 28.10.)
+1. vServer 89.58.10.130 (Netcup, Debian, Docker) | Connector „Server“ in jeder Claude-Session (Tools befehl, datei_lesen, datei_schreiben) | Deploys nach /opt/sites, Container, PocketBase, NPM/Caddy, Doku-Build | Root über /opt/shell-mcp (nsenter PID 1), Log /opt/shell-mcp/log/befehle.jsonl; PocketBase-Superuser-Token nur über TOK=$(/root/bin/pb-token) | Repos anlegen, GitHub-Secrets setzen, kein gh auf dem Server; (ausgehendes SSH zu GitHub seit 06.11. erlaubt, s. Nachtrag); nie docker exec pocketbase gegen den laufenden Server (WAL-Vorfall 28.10.)
 
-2. Claude Code Cloud (Guthaben-Sessions, auch diese Wiedervorlage-Session) | Repos bauen, PRs, Server-Umbau über Connector „Server“, Gedächtnis | GitHub push auf baerimbild-Repos nach add_repo (Max bestätigt jede Freigabe), Connector „Server“, Connector „Gedächtnis“, Google-Kalender/Gmail/Drive, Claude Docs | Repos anlegen, Branches löschen (Proxy 403), SSH, Geräte im Heimnetz (nur über Entendrachen-Bridge, wenn gekoppelt)
+2. Claude Code Cloud (Guthaben-Sessions, auch diese Wiedervorlage-Session) | Repos bauen, PRs, Server-Umbau über Connector „Server“, Gedächtnis | GitHub push auf baerimbild-Repos nach add_repo (Max bestätigt jede Freigabe; seit 06.11. besser über den Server pushen), Connector „Server“, Connector „Gedächtnis“, Google-Kalender/Gmail/Drive, Claude Docs | Repos anlegen, Branches löschen (Proxy 403), SSH, Geräte im Heimnetz (nur über Entendrachen-Bridge, wenn gekoppelt)
 
 3. wombat (Raspberry Pi 5, Always-on, Heimnetz, Tailscale) | Claude Code lokal (seit 01.11.) | Heimnetz-Arbeiten: Orange Pi/Reachy-Starter, Backups vom vServer, Mediaserver, künftig Master-Claude Stufe 1 | VOLLES SUDO (Entscheidung Max 03.11.), SSH ins Heimnetz (OPi), gh vorhanden | Hinter Starlink-CGNAT, von außen nur über Tailscale erreichbar
 
@@ -31,6 +36,7 @@ KONVENTIONEN
 - Wer mergen kann, merged (Bereich allgemein).
 - Secrets nie im Chat; Max tippt Tokens selbst in UIs.
 - Jede neue Instanz trägt sich hier ein (Gerät, Tool, Rechte), bevor sie arbeitet.
+- Zugang vor Vorsicht (Max, 06.11.): Max nimmt Risiken durch breiten Werkzeug-Zugang bewusst in Kauf; keine Sicherheitsbelehrungen, Sicherheitsrelevantes einmal nüchtern nennen, dann machen.
 
 REPOS (Stand 03.11.2026, geprüft über GitHub-API; alle privat unter baerimbild)
 Aktiv mit Claude-Code-Cloud-Guthaben, alle PRs gemerged, KEINE offenen PRs:
@@ -42,15 +48,17 @@ Aktiv mit Claude-Code-Cloud-Guthaben, alle PRs gemerged, KEINE offenen PRs:
 - makermon-world: PR #1 gemerged (02.11., Web-Export, Touch, Devkit). Branch claude/web-update liegt noch. Workflow deploy.yml (Pipeline → makermon-world.duckdevlab.com).
 - makermon: nur main, deploy.yml.
 - sites-deploy: nur main, deploy.yml (zentrale Pipeline, Caller-Workflows in den Site-Repos).
-- duckdevlab-docs: main + toter Branch pluesch-doku (1 ahead, 9 behind). deploy.yml → docs.duckdevlab.com.
-Weitere (nicht im Audit geprüft): innershell-landing, moneymoves, duckdevlab.com, historycraft-site, inner_shell_main_client, baerimbild.de, duckdevlab_godot_template, testing, massive_igel, innercore_animation, historycraft_manager, duckdevlab_vault, character_generator, innershell.dev, gtpRossTaskPlanner, rossTaskPlanner.
+- duckdevlab-docs: main + toter Branch pluesch-doku (1 ahead, 9 behind). deploy.yml → docs.duckdevlab.com. 06.11.: Commit d12ed71 vom Server (Backups, Regel 12, Wandering Shell).
+- duckdevlab-gedaechtnis: NOCH ANZULEGEN (privat, leer) – Ziel des Gedächtnis-Exports.
+Weitere (nicht im Audit geprüft): innershell-landing, moneymoves, duckdevlab.com, historycraft-site, inner_shell_main_client, baerimbild.de, duckdevlab_godot_template, testing, massive_igel, innercore_animation, historycraft_manager, duckdevlab_vault, character_generator, innershell.dev, gtpRossTaskPlanner, rossTaskPlanner. Kein Repo für Broken Shell (Lore, GDD, Prototyp) – anlegen (broken-shell).
 Aufräumen (nur Max kann Branches löschen, Claude bekommt 403): gemergte Branches in reachy, werkbank, luanti-dialoge, makermon-world; pluesch-doku in duckdevlab-docs.
 
 DEPLOY-WEGE
 - Statische Sites und Godot-Web: Repo mit site.json + Caller-Workflow → sites-deploy → /opt/sites/library/<name> → <name>.duckdevlab.com (Panel sites.duckdevlab.com).
 - Kleine Apps ohne GitHub: /opt/ops/src/<name> mit deploy.sh (Beispiel pluesch).
 - Gedächtnis-MCP: heute lose Dateien in /opt/mcp (server.py, Dockerfile, compose, mcp.env), KEIN Git → soll ins Repo duckdevlab-assistenz.
-- Docs: Push auf main in duckdevlab-docs → Pipeline; Notfall /usr/local/bin/docs-build.
+- Docs: Push auf main in duckdevlab-docs → Pipeline; Notfall /usr/local/bin/docs-build (Quelle = Klon /opt/ops/docs/src).
+- Git-Arbeit vom Server aus (seit 06.11.): git clone git@github.com-server:baerimbild/<repo>.git, committen als claude-vserver, pushen.
 
 ## Ablage
 

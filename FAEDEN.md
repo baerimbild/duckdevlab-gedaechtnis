@@ -4,6 +4,7 @@
 
 | Projekt | Faden | fällig | zuletzt |
 |---|---|---|---|
+| studio | [Studio · Baernetz](faeden/studio--studio-baernetz--huylgax5w21yok1.md) | 2026-11-12 | 2026-11-06 |
 | broken_shell | [Broken Shell · Opening-Teaser (Bild, Video, Musik, Stimme)](faeden/broken_shell--broken-shell-opening-teaser-bild-video-musik-stimme--hnmjllgnde31ut6.md) | 2026-11-09 | 2026-11-06 |
 | inner_shell | [Inner Shell · Landingpage innershell.dev: In development, Mail-Liste, Discord](faeden/inner_shell--inner-shell-landingpage-innershell-dev-in-development-mail-liste-discord--kpjwo17p1eqrnjy.md) |  | 2026-11-06 |
 | studio | [Studio · Sites-Panel und Deploy-Pipeline](faeden/studio--studio-sites-panel-und-deploy-pipeline--wmiuiccuefp6cr6.md) | 2026-11-12 | 2026-11-06 |
@@ -16,7 +17,6 @@
 | historycraft | [Dialog-Tool → MineHandy (Akademie-Bildungsserver)](faeden/historycraft--dialog-tool-minehandy-akademie-bildungsserver--ivljb46sdc292fo.md) | 2026-11-10 | 2026-11-04 |
 | ttrpg | [TTRPG · Wandering Shell Webapp (Repo + Claude-Code-Auftrag)](faeden/ttrpg--ttrpg-wandering-shell-webapp-repo-claude-code-auftrag--hgxabvmilxg4xt7.md) | 2026-11-07 | 2026-11-04 |
 | sonstiges | [Sonstiges · Gesundheit: Morgens frieren / Morgenroutine Essen](faeden/sonstiges--sonstiges-gesundheit-morgens-frieren-morgenroutine-essen--jwswmhqo4fc2cle.md) |  | 2026-11-03 |
-| studio | [Studio · Baernetz](faeden/studio--studio-baernetz--huylgax5w21yok1.md) | 2026-11-12 | 2026-11-03 |
 | inner_shell | [Inner Shell · Projektplanung neu (November 2026)](faeden/inner_shell--inner-shell-projektplanung-neu-november-2026--kymbx8b7qkmkqfm.md) | 2026-11-11 | 2026-11-03 |
 | historycraft | [HistoryCraft · Angebot ANG-2026-001: Überführung in den Einsatzbetrieb (Ev. Akademie)](faeden/historycraft--historycraft-angebot-ang-2026-001-überführung-in-den-einsatzbetrieb-ev-akademie--jbuyteqv71nntg2.md) | 2026-11-10 | 2026-11-03 |
 | sonstiges | [Sonstiges · Leipziger Wohnung übergeben (Mietvertrag bis 30.11.)](faeden/sonstiges--sonstiges-leipziger-wohnung-übergeben-mietvertrag-bis-30-11--jqf709i1vtxanxm.md) | 2026-11-05 | 2026-11-03 |
