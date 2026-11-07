@@ -1,0 +1,18 @@
+# Inner Shell · Verknüpfung (Fortsetzung 2): Rina und Roik im ganzen Shell-Kosmos
+
+`key: inner_shell_lore_verknuepfung_3` · aktualisiert 2026-11-06 21:14 · id `kohgzm85bu38i9y`
+
+## Kurzstand
+
+Fortsetzung von inner_shell_lore_verknuepfung_2. Nur anhängen.
+Max (06.11.2026, 22:12):
+- Bei den Spiel-Setzungen (GDD) ist er sich noch nicht zu 100 % sicher.
+- Intuition: Rina und Roik könnten insgesamt eine richtig große Rolle bekommen – im ganzen „Shell“-Kosmos. Roiks Schicksal fasziniert ihn gerade: dass er durch die Zeit reißt, aber eher so, als wäre das nichts (passt zu ihm). Vielleicht verschlägt es ihn auf Veald – in die Materia-Prima-Instanz, in die Inner-Shell-Instanz oder in beide.
+Claude-Kommentar (22:20):
+- Kanon-Anker dafür stehen schon: Roik hat sich an der Zeit festgehalten und wurde dorthin zurückgelegt, wo sie ihn „zuerst“ gesehen hat (Richtung Vergangenheit); für Reske „nirgends“; GDD: könnte in der Spielzukunft in Nie-da-Zonen auftauchen, „ein Mann außerhalb der Zeit“. Die Zeit (eine der 34) verschiebt Schalen über Jahrtausende und bewegt sich außerhalb des Jetzt – also auch außerhalb eines Kosmoiden (Immerdar-Perspektive). Ein Mensch, der sich an ihr festhält, kann grundsätzlich überall landen.
+- Roiks Eigenschaft: Ihn nimmt nichts. Keine Schale, kein Gerät. In Inner Shell wäre er damit der Mensch, den der Mond nicht lobotomisieren kann und den das Substrat nicht als „eigen“ erkennt – weder Tavari noch Spieler noch Spiegel, eine dritte Sorte. In Materia Prima wäre er der einzige Fremde, der durch den lila Dunst um den Monolithen geht, ohne Orientierung und Zeitgefühl zu verlieren – weil er beides schon im Nie-da verloren und wiedergefunden hat. Der Sammler kam über den Mond nach Weald; Roik käme über die Zeit.
+- Register: „als wäre das nichts“ ist Roiks Signatur (Schinken, Wolle, Kuh). Auf Veald fragt er nach einem Becher und zwei Schinken, nicht nach dem Universum.
+- Leitsatz-Wächter: Nie erklären, warum ihn nichts nimmt; nie bestätigen, dass es derselbe Roik ist (in Inner Shell nur als Händler ohne Namen mit Rindenkarte, Katze oder Melodie erkennbar). Beide Universen teilen Physik, keines erklärt das andere – Roik wäre das erste Wesen, das in beiden vorkommt, ohne eines zu erklären.
+Hypothese (22:20): Rina als Gegenstück – sie lebt in der fliegenden Stadt des Ursprungs, der dorthin will, „woher die Schalen kommen“. Wenn Roik zu Fuß durch die Zeit kommt und Rina mit der Stadt durch den Raum, treffen sie sich auf Veald von zwei Seiten – und die Frage „Absicht oder eigene Theorie?“ hätte ihr Liebespaar.
+NACHTRAG 22:25 – Max: Roik wird realisieren, dass er in einer anderen Zeit ist, und versuchen, Rina zu retten; das sei eine starke Motivation für ihn.
+Claude-Kommentar: Starke Motivation, weil sie sein Scheitern spiegelt: Für Nele kam er drei Tage zu spät und hat das eine Ja aufgehoben; für Rina (Kanon: stirbt an Neles Geburt) bekäme er ein zweites Mal die Chance, rechtzeitig zu sein. Gefahr: Quest-Logik (Lore: „Quest-Logik wäre der Tod dieser Welt“). Drei Formen, die den Leitsatz halten: (1) Er rettet sie vor dem einen Tod, und sie stirbt an dem anderen – Rinas Regel (Schale und Empfängnis schließen sich aus) bleibt. (2) Er kommt zu früh: Rina ist noch Kind in der fliegenden Stadt – dann ist er der Dieb aus „Wolken“ und löst aus, was er verhindern will (Ouroboros, die Zeit „sucht sich selbst“). (3) Er kommt noch früher und legt die Schale nach Weißenbruch, die ihn später nimmt – er wird der „Mann aus dem Norden“, von dem man gehört hat. Nie bestätigen, welche. Rettung im Roik-Register heißt: zwei Schinken, ein Becher, pünktlich sein.

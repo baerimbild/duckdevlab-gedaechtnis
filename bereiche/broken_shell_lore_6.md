@@ -1,6 +1,6 @@
 # Broken Shell · Lore VI: Was fehlt – der Osten, das Institut, Schuld
 
-`key: broken_shell_lore_6` · aktualisiert 2026-11-06 19:16 · id `6ggji87jvoh3es0`
+`key: broken_shell_lore_6` · aktualisiert 2026-11-06 21:00 · id `6ggji87jvoh3es0`
 
 ## Kurzstand
 
@@ -11,3 +11,8 @@ Claude-Kommentar (20:20):
 - „Schuldige suchen“ liegt im anderen Universum: Dil-Nemesis, Klerus gegen Simianer, Genozid als Selbstschutz. Die beiden Werke teilen sich die Diagnose – Broken Shell: die Leere des Komforts; Inner Shell: die Jagd nach Schuldigen. Vielleicht ist das die eigentliche Kopplung.
 - Einwand: „Ohne Grund“ stimmt selten. Der Osten hat einen Grund (Angst vor dem Angriff), und jede Sündenbocksuche hat einen, der sich wie einer anfühlt. Das Böse im Buch ist bisher ein Mangel (nicht gebraucht werden); Max’ Diagnose verlangt ein aktives Böses, das aus Angst handelt.
 - Das Scherbenbild steht schon im Buch: Keno trägt Scherben in die Stuben; der Lehrer der Apologie tötet sieben und will dafür erreichbar sein.
+NACHTRAG 06.11.2026, 22:20 – APOKRYPHE „DIE UNTERSUCHUNG“ (Entwurf 2)
+- Entspricht der Lore-Saat „Die Untersuchung (der Vorsorge-Beamte, der weiß, was es ist)“. Entwurf 1 (Chat, 20:30) von Max gut befunden: fasst das Problem beider Seiten. Max’ Setzungen (20:41): Der Osten wirkt wie DDR, nicht wie NS – Menschen, deren Überzeugung noch nicht im diabolisch Fanatischen liegt. Die Näherin verschwindet nicht nach den Tests; sie ist Patriotin im positiven Sinn, versteht das Warum, und das gibt ihr das Gebrauchtwerden – was dem Arzt in gewisser Weise klar wird.
+- Entwurf 2 (Claude, 22:15): Ich-Erzähler = Vorsorge-Arzt (namenlos), Bezirk 4, der Vormittag aus Bericht 1 von der anderen Seite des Tischs; Reske als „Beobachter“. Institut: Direktorin erklärt den Überstellten, was das Prüfobjekt ist („Wer es weiß, bleibt im Institut“). Näherin heißt GESA (neuer Name, Registerregel), 19, blauer Flicken von der Mutter. Vertiefung = Stufen (18 °C/Wasser; 12 °C/kein Licht/Schlaf nach Plan; Stufe drei ohne Plan) als „Messung, ab wann es nimmt“; Gesa bittet selbst um Stufe drei; 126 Versuche, es bleibt kalt; „nicht verwertbar“. Sie bleibt als Mitarbeiterin und sitzt bei den Neuen (Überstellten). Schluss im Dialog auf dem Flur: „Viele heute?“ – „Siebenundzwanzig.“ – „Das ist eine normale Zahl.“ Sprachguide beachtet (ein nicht-sondern, kein Aphorismus-Ende, Vokabelzählung ok). Max’ Szene dazu (20:23, Zwischensequenz): e auf einer Bank am Waldrand vor dem leeren Feld, Schnee, schreibt in ein Buch; Schnitt auf Max, der ein Buch „Inner Shell“ zuklappt; Mundwinkel; e geht über das Feld, Schnee knarzt, wird zum Punkt.
+- Ablage: Entwurf auf dem vServer /opt/ops/notizen/broken-shell-entwurf-die-untersuchung-2026-11-06.md (NICHT im Repo; nach Freigabe → geschichten/Die_Untersuchung.md, Deckblatt, MANIFEST). Repo broken-shell wurde heute von der vServer-Instanz committet (Register: ein Repo, eine Instanz pro Tag) – deshalb kein Commit von hier.
+- Claude-Kommentar: Mit Max’ Wendung ist die Grausamkeit nicht mehr der Apparat, sondern die Überzeugung, die ihn trägt – und der Arzt hat weniger davon als die Näherin. Offen: Gesa als wiederkehrende Figur (die „Kalte“ des Instituts, vgl. Stubenwissen „Der Kalte“)? Verbindung zu Auswerter L. und Instanz 12?

@@ -4,6 +4,7 @@
 
 | Projekt | Faden | fällig | zuletzt |
 |---|---|---|---|
+| studio | [Studio · Lebendige Infrastruktur-Anzeige (Baum auf dem Monitor)](faeden/studio--studio-lebendige-infrastruktur-anzeige-baum-auf-dem-monitor--kf4yao3yd9ahn1z.md) |  | 2026-11-06 |
 | studio | [Studio · Baernetz](faeden/studio--studio-baernetz--huylgax5w21yok1.md) | 2026-11-12 | 2026-11-06 |
 | broken_shell | [Broken Shell · Opening-Teaser (Bild, Video, Musik, Stimme)](faeden/broken_shell--broken-shell-opening-teaser-bild-video-musik-stimme--hnmjllgnde31ut6.md) | 2026-11-09 | 2026-11-06 |
 | inner_shell | [Inner Shell · Landingpage innershell.dev: In development, Mail-Liste, Discord](faeden/inner_shell--inner-shell-landingpage-innershell-dev-in-development-mail-liste-discord--kpjwo17p1eqrnjy.md) |  | 2026-11-06 |

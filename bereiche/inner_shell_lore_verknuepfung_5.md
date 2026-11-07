@@ -1,0 +1,15 @@
+# Inner Shell · Verknüpfung (Fortsetzung 4): Immerdar, Verbindung, Bindung
+
+`key: inner_shell_lore_verknuepfung_5` · aktualisiert 2026-11-06 21:54 · id `lfqysukkdmn1ted`
+
+## Kurzstand
+
+Fortsetzung von inner_shell_lore_verknuepfung_4. Nur anhängen.
+Max (06.11.2026, 22:54): Dazwischen liegt das Immerdar, wo man sich nur selbst begegnet – keine Welt im eigentlichen Sinn, sondern eine Zwischenwelt der „Götter“ bzw. derer, die den Weg zum Omnibären suchen, die noch nicht da sind. In Broken Shell ist Verbindung genau das, was einen erdet, vermeintlich der Retter – aber genau das müssen die Kosmodile loswerden, um dem Omnibären näher zu kommen.
+Claude-Kommentar (23:00):
+- Das Immerdar steht in Broken Shell schon von innen: „Nie da“. Die Welt der Zeit ist eine Welt ohne Jetzt, in der nichts liegt und kein Ja greift; „Sie kann nie dort sein, wo jemand ist. Roik war ihr einziger Gast; sie hat ihn nie gesehen, nur gehabt.“ Die Zeit „sucht sich selbst und hat sich bereits gefunden“ = man begegnet nur sich selbst. Roik wäre der einzige Mensch, der je im Immerdar war – und er hat es für Wetter gehalten.
+- Der Widerspruch, den Max benennt, ist der Kern beider Werke: Kosmodile legen Bindung ab; der Omnibär-Moment ist aber Verbindung (rotes Telefon, Essen teilen). Lesart: Es sind zwei verschiedene Dinge. BINDUNG = festhalten, Sorge, Erinnerung als dominanter Wille (das, was das Urschl nicht losgeworden ist). VERBINDUNG beim Omnibären = Aufgehen, ununterscheidbar werden (BEC: ein Zustand, keine Teilchen mehr). Man legt das Meine ab, nicht das Andere.
+- Broken Shell zeigt die Fälschung davon: „Die Verbindung“ (eine der 34) spinnt Schalen zu Nestern, alle helfen einander, niemand hat Vergleich, keine Fortpflanzung, nichts kann verloren gehen – ein Omnibär ohne Transzendenz, Verbundenheit als Nachbild. Julias Satz: Was man hat, ist nur etwas wert, wenn man es verlieren kann. Im Nest kann nichts verloren gehen, deshalb fehlt dort etwas, „als wäre ein Satz nicht zu Ende gesprochen“.
+- Das Urschl ist die Ausnahme, die den Preis der Regel zeigt: Ein sauberes Kosmodil ohne Bindung hätte den Fall des Drachen gar nicht bemerkt. Nur das beschädigte, das Bindung behielt, kann reagieren. „Seine Schwäche ist seine einzige Stärke.“ – Broken Shell dreht es um: Nur wer noch braucht (Bedarf), ist da. Der Wechsler wird stärker, je mehr er braucht.
+- Schalen als Übungsgerät dafür: Sie nehmen den Bedarf, so wie die Transzendenz die Bindung nimmt. Deshalb die Übergangs-Lesart des Titels (Broken Shell = Schlupf; Afrika „zündet die nächste Stufe“; Lore: Schalen als „Wegbereiter der Willen“). Der Norden und der Osten wehren sich gegen genau den Vorgang, den Inner Shell Transzendenz nennt – und beide haben recht und unrecht, je nachdem, von welcher Seite der Schale man liest.
+Hypothese: Das Immerdar ist der Ort, an dem der Satz „Wer weiß, ist meist allein“ (Preis der Prozedur) kosmologisch wird. Wer dort ankommt, ohne vorher das Essen geteilt zu haben, begegnet nur sich selbst – und bleibt. Der Omnibär ist das Immerdar mit einem Telefon.

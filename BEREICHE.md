@@ -9,6 +9,7 @@
 | [broken_shell_lore_4](bereiche/broken_shell_lore_4.md) | Broken Shell · Lore IV: Deutungen und Gespräche (Fortsetzung) | 2026-11-06 |
 | [broken_shell_lore_5](bereiche/broken_shell_lore_5.md) | Broken Shell · Lore V: Die Erwachten, e als Prinzip, Erzähl-Metaphysik | 2026-11-06 |
 | [broken_shell_lore_6](bereiche/broken_shell_lore_6.md) | Broken Shell · Lore VI: Was fehlt – der Osten, das Institut, Schuld | 2026-11-06 |
+| [broken_shell_lore_7](bereiche/broken_shell_lore_7.md) | Broken Shell · Lore VII: e – helfen können, nicht dürfen; Roik und Rina | 2026-11-06 |
 | [broken_shell_spiel](bereiche/broken_shell_spiel.md) | Broken Shell · Spiel (Souls-like-Prototyp, Godot) – Konzept, Figur e, Ablage | 2026-11-06 |
 | [historycraft](bereiche/historycraft.md) | HistoryCraft (Luanti-Server, GDD, Ev. Akademie) | 2026-10-27 |
 | [inner_shell](bereiche/inner_shell.md) | Inner Shell (Godot 4 Main Client, Worldbuilding) | 2026-11-04 |
@@ -35,6 +36,9 @@
 | [inner_shell_lore_themen](bereiche/inner_shell_lore_themen.md) | Inner Shell · Lore · Themen und Haltung | 2026-11-04 |
 | [inner_shell_lore_verknuepfung](bereiche/inner_shell_lore_verknuepfung.md) | Inner Shell · Verknüpfung mit Broken Shell und Materia Prima | 2026-11-04 |
 | [inner_shell_lore_verknuepfung_2](bereiche/inner_shell_lore_verknuepfung_2.md) | Inner Shell · Verknüpfung (Fortsetzung): Broken Shell | 2026-11-04 |
+| [inner_shell_lore_verknuepfung_3](bereiche/inner_shell_lore_verknuepfung_3.md) | Inner Shell · Verknüpfung (Fortsetzung 2): Rina und Roik im ganzen Shell-Kosmos | 2026-11-06 |
+| [inner_shell_lore_verknuepfung_4](bereiche/inner_shell_lore_verknuepfung_4.md) | Inner Shell · Verknüpfung (Fortsetzung 3): Veald in beiden Kosmoiden, Monolith = Welteiche | 2026-11-06 |
+| [inner_shell_lore_verknuepfung_5](bereiche/inner_shell_lore_verknuepfung_5.md) | Inner Shell · Verknüpfung (Fortsetzung 4): Immerdar, Verbindung, Bindung | 2026-11-06 |
 | [inner_shell_lore_welt](bereiche/inner_shell_lore_welt.md) | Inner Shell · Lore · Welt, Orte, Völker | 2026-11-04 |
 | [inner_shell_lore_widersprueche](bereiche/inner_shell_lore_widersprueche.md) | Inner Shell · Lore · Widersprüche zwischen Quellen (zur Klärung durch Max) | 2026-11-04 |
 | [inner_shell_wesen](bereiche/inner_shell_wesen.md) | Inner Shell · Wesenheiten (Charakter-Notizen aus Gesprächen) | 2026-11-04 |
@@ -42,5 +46,6 @@
 | [inner_shell_wesen_niv](bereiche/inner_shell_wesen_niv.md) | Inner Shell · Wesenheit · Niv (Tavari) | 2026-11-04 |
 | [makermon](bereiche/makermon.md) | Makermon (MakerDays-Kinderprojekt) | 2026-11-02 |
 | [materia_prima_lore](bereiche/materia_prima_lore.md) | Materia Prima · Lore (altes Universum von Max) | 2026-11-04 |
+| [materia_prima_lore_2](bereiche/materia_prima_lore_2.md) | Materia Prima · Lore II: Die Fremden, Encephalon, Verbindung zu den Schalen | 2026-11-06 |
 | [register](bereiche/register.md) | Register – Geräte, Claude-Instanzen, Rechte, Repos (vor „ich kann das nicht“ lesen) | 2026-11-06 |
 | [studio](bereiche/studio.md) | Studio / DuckDevLab (Infrastruktur, Hosting, Organisation) | 2026-11-03 |
