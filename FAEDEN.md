@@ -4,6 +4,7 @@
 
 | Projekt | Faden | fällig | zuletzt |
 |---|---|---|---|
+| ttrpg | [Wandering Shell · Roguelite mit jungem e (Idee)](faeden/ttrpg--wandering-shell-roguelite-mit-jungem-e-idee--j5hl3304vuf1d7u.md) |  | 2026-11-07 |
 | studio | [Studio · Lebendige Infrastruktur-Anzeige (Baum auf dem Monitor)](faeden/studio--studio-lebendige-infrastruktur-anzeige-baum-auf-dem-monitor--kf4yao3yd9ahn1z.md) |  | 2026-11-06 |
 | studio | [Studio · Baernetz](faeden/studio--studio-baernetz--huylgax5w21yok1.md) | 2026-11-12 | 2026-11-06 |
 | broken_shell | [Broken Shell · Opening-Teaser (Bild, Video, Musik, Stimme)](faeden/broken_shell--broken-shell-opening-teaser-bild-video-musik-stimme--hnmjllgnde31ut6.md) | 2026-11-09 | 2026-11-06 |

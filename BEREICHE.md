@@ -49,3 +49,5 @@
 | [materia_prima_lore_2](bereiche/materia_prima_lore_2.md) | Materia Prima · Lore II: Die Fremden, Encephalon, Verbindung zu den Schalen | 2026-11-06 |
 | [register](bereiche/register.md) | Register – Geräte, Claude-Instanzen, Rechte, Repos (vor „ich kann das nicht“ lesen) | 2026-11-06 |
 | [studio](bereiche/studio.md) | Studio / DuckDevLab (Infrastruktur, Hosting, Organisation) | 2026-11-03 |
+| [wandering_shell_roguelite_e](bereiche/wandering_shell_roguelite_e.md) | Wandering Shell · Idee: Roguelite mit jungem e als Protagonist (Max, 07.11.2026) | 2026-11-07 |
+| [wandering_shell_roguelite_e_2](bereiche/wandering_shell_roguelite_e_2.md) | Wandering Shell · Roguelite mit jungem e (Fortsetzung): Avatar, Progression, Ton | 2026-11-07 |
