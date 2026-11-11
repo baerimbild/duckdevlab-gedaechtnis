@@ -1,19 +1,19 @@
 # Sonstiges · Leipziger Wohnung übergeben (Mietvertrag bis 30.11.)
 
-Projekt `sonstiges` · id `jqf709i1vtxanxm` · aktualisiert 2026-11-03 07:31 · fällig 2026-11-05
+Projekt `sonstiges` · id `jqf709i1vtxanxm` · aktualisiert 2026-11-10 06:46 · fällig 2026-11-20
 
 ## Stand
 
-03.11.2026: Max ist ab 04.11. (nach dem Termin um 10:10) in Leipzig und renoviert die alte Wohnung, voraussichtlich bis Ende der Woche. In dieser Zeit zu erledigen: Internet kündigen, Strom ummelden, Sperrmüll bestellen, Übergabetermin mit dem Vermieter vereinbaren. Mietvertrag läuft bis Ende November.
+10.11.2026: Internet gekündigt, Strom umgemeldet. Sperrmüll: kein Termin mehr frei, Max löst das anders. Übergabetermin steht: Fr 27.11., 15:15, mit der Hausverwaltung, im Google-Kalender (mit Checkliste: Schlüssel, Zählerstand, Fenster-Mängelanzeige, Fotos, Kaution). Renovierung läuft: heute Küche fertig streichen, Fußleisten anbringen, teils zweiter Anstrich. — 03.11.2026: Max ist ab 04.11. in Leipzig und renoviert die alte Wohnung. Mietvertrag läuft bis Ende November.
 
 ## Offen
 
-Internet kündigen · Strom ummelden · Sperrmüll bestellen · Übergabetermin vereinbaren
+Sperrmüll anders entsorgen · Renovierung abschließen
 
 ## Nächster Schritt
 
-Die vier Punkte während der Renovierungstage abarbeiten; Übergabetermin zuerst, weil er die anderen Fristen setzt.
+Renovierung fertig machen, Sperrmüll-Alternative umsetzen. Übergabe 27.11. ist im Kalender, Checkliste steht im Termin.
 
 ## Prio
 
-hoch
+normal

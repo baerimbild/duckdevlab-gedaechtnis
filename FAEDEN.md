@@ -4,6 +4,7 @@
 
 | Projekt | Faden | fällig | zuletzt |
 |---|---|---|---|
+| sonstiges | [Sonstiges · Leipziger Wohnung übergeben (Mietvertrag bis 30.11.)](faeden/sonstiges--sonstiges-leipziger-wohnung-übergeben-mietvertrag-bis-30-11--jqf709i1vtxanxm.md) | 2026-11-20 | 2026-11-10 |
 | ttrpg | [Wandering Shell · Roguelite mit jungem e (Idee)](faeden/ttrpg--wandering-shell-roguelite-mit-jungem-e-idee--j5hl3304vuf1d7u.md) |  | 2026-11-07 |
 | studio | [Studio · Lebendige Infrastruktur-Anzeige (Baum auf dem Monitor)](faeden/studio--studio-lebendige-infrastruktur-anzeige-baum-auf-dem-monitor--kf4yao3yd9ahn1z.md) |  | 2026-11-06 |
 | studio | [Studio · Baernetz](faeden/studio--studio-baernetz--huylgax5w21yok1.md) | 2026-11-12 | 2026-11-06 |
@@ -21,7 +22,6 @@
 | sonstiges | [Sonstiges · Gesundheit: Morgens frieren / Morgenroutine Essen](faeden/sonstiges--sonstiges-gesundheit-morgens-frieren-morgenroutine-essen--jwswmhqo4fc2cle.md) |  | 2026-11-03 |
 | inner_shell | [Inner Shell · Projektplanung neu (November 2026)](faeden/inner_shell--inner-shell-projektplanung-neu-november-2026--kymbx8b7qkmkqfm.md) | 2026-11-11 | 2026-11-03 |
 | historycraft | [HistoryCraft · Angebot ANG-2026-001: Überführung in den Einsatzbetrieb (Ev. Akademie)](faeden/historycraft--historycraft-angebot-ang-2026-001-überführung-in-den-einsatzbetrieb-ev-akademie--jbuyteqv71nntg2.md) | 2026-11-10 | 2026-11-03 |
-| sonstiges | [Sonstiges · Leipziger Wohnung übergeben (Mietvertrag bis 30.11.)](faeden/sonstiges--sonstiges-leipziger-wohnung-übergeben-mietvertrag-bis-30-11--jqf709i1vtxanxm.md) | 2026-11-05 | 2026-11-03 |
 | studio | [Server-Zugang für Claude (MCP-Connector „Server“)](faeden/studio--server-zugang-für-claude-mcp-connector-server--1arllrx6jy8uxa8.md) |  | 2026-11-03 |
 | studio | [Studio · Plüsch-Meldeamt (pluesch.duckdevlab.com)](faeden/studio--studio-plüsch-meldeamt-pluesch-duckdevlab-com--ybeano97rjxld31.md) | 2026-11-16 | 2026-11-03 |
 | studio | [Studio · IlluminaWS einrichten](faeden/studio--studio-illuminaws-einrichten--hxau577u8u9gxf1.md) |  | 2026-11-03 |
