@@ -1,6 +1,6 @@
 # Studio · vServer-Umbau und Absicherung
 
-Projekt `studio` · id `6b2j9fs9widn4uy` · aktualisiert 2026-11-03 07:12 · fällig 2026-11-14
+Projekt `studio` · id `6b2j9fs9widn4uy` · aktualisiert 2026-11-12 11:24 · fällig 2026-11-16
 
 ## Stand
 

@@ -1,6 +1,6 @@
 # Studio · Struktur-Audit + Master-Claude (Überblick über alle Agents) – WICHTIG
 
-Projekt `studio` · id `0jgamas2so6mxxe` · aktualisiert 2026-11-06 06:50 · fällig 2026-11-10
+Projekt `studio` · id `0jgamas2so6mxxe` · aktualisiert 2026-11-12 12:30 · fällig 2026-11-16
 
 ## Stand
 
@@ -22,6 +22,7 @@ Projekt `studio` · id `0jgamas2so6mxxe` · aktualisiert 2026-11-06 06:50 · fä
 - Stufe 2 später: Wochenschluss-Auftrag, wombat als Master Stufe 1, Julias Tokens, Werkbank-Panel als Kommandozentrale, Controller über aufwand.
 - Alte Audit-Punkte 1–8 (Backups auf wombat, Git-Spiegel, Headscale, Google-Ausstieg) unverändert offen.
 - Faden l3b6zgbipp7t2rz (Reachy Dock Zugänge) ist durch das Register weitgehend abgedeckt → abschließen oder Rest hierher.
+- NEU 12.11.2026 (Max, aus dem Chat „RimWorld With You“): Arbeit zwischen Instanzen grundsätzlich über GitHub-Repos austauschen (Code, Skripte, Doku); Stand und Entscheidungen bleiben im Gedächtnis. Zu klären: Maschinen- und Ops-Skripte brauchen ein Repo ohne Zugangsdaten (duckdevlab-ops enthält zugaenge). Dazu Regel 13 in „allgemein“ (Terminal statt Klick-Fernsteuerung) und der Nachtrag im Register.
 
 ## Nächster Schritt
 

@@ -1,6 +1,6 @@
 # Studio · Werkbank-Panel (KI-Dienste + Reachy-Stimme)
 
-Projekt `studio` · id `fgn19syo2g7oi9t` · aktualisiert 2026-11-03 07:12 · fällig 2026-11-06
+Projekt `studio` · id `fgn19syo2g7oi9t` · aktualisiert 2026-11-12 11:24 · fällig 2026-11-16
 
 ## Stand
 

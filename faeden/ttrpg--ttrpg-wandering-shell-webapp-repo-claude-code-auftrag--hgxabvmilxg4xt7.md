@@ -1,6 +1,6 @@
 # TTRPG · Wandering Shell Webapp (Repo + Claude-Code-Auftrag)
 
-Projekt `ttrpg` · id `hgxabvmilxg4xt7` · aktualisiert 2026-11-04 08:16 · fällig 2026-11-07
+Projekt `ttrpg` · id `hgxabvmilxg4xt7` · aktualisiert 2026-11-12 11:24 · fällig 2026-11-16
 
 ## Stand
 

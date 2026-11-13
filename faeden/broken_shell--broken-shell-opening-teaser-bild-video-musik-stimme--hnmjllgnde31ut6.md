@@ -1,6 +1,6 @@
 # Broken Shell · Opening-Teaser (Bild, Video, Musik, Stimme)
 
-Projekt `broken_shell` · id `hnmjllgnde31ut6` · aktualisiert 2026-11-06 20:23 · fällig 2026-11-09
+Projekt `broken_shell` · id `hnmjllgnde31ut6` · aktualisiert 2026-11-12 11:24 · fällig 2026-11-16
 
 ## Stand
 

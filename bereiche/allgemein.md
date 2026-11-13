@@ -1,10 +1,10 @@
 # Allgemein – gilt für alle Interaktionen (projekt-, instanz- und LLM-unabhängig)
 
-`key: allgemein` · aktualisiert 2026-11-06 19:53 · id `2e246ty7aqqbt9b`
+`key: allgemein` · aktualisiert 2026-11-12 12:08 · id `2e246ty7aqqbt9b`
 
 ## Kurzstand
 
-06.11.2026: Regel 12 ergänzt – alle textlichen Arbeitsergebnisse (Lore, Konzepte, GDDs, Figurenblätter, Entscheidungen) müssen zusätzlich ins PocketBase-Gedächtnis; Chat-Container und interne Tool-Speicher gelten nicht als Ablage. 03.11.2026: Register angelegt (Bereich „register“: Geräte, Instanzen, Rechte, Repos) und Assistenz-Regeln aus dem Audit ergänzt. 02.11.2026 angelegt: Arbeitsweise mit Max, die für jedes Projekt und jedes Modell gilt (Claude, Gemini, ChatGPT usw.). Vor Projektregeln lesen; Projektbereiche dürfen präzisieren.
+12.11.2026: Regel 13 ergänzt – technische Lösung und Terminal-Zugriff statt Klick-Fernsteuerung. 06.11.2026: Regel 12 ergänzt – alle textlichen Arbeitsergebnisse (Lore, Konzepte, GDDs, Figurenblätter, Entscheidungen) müssen zusätzlich ins PocketBase-Gedächtnis; Chat-Container und interne Tool-Speicher gelten nicht als Ablage. 03.11.2026: Register angelegt (Bereich „register“: Geräte, Instanzen, Rechte, Repos) und Assistenz-Regeln aus dem Audit ergänzt. 02.11.2026 angelegt: Arbeitsweise mit Max, die für jedes Projekt und jedes Modell gilt (Claude, Gemini, ChatGPT usw.). Vor Projektregeln lesen; Projektbereiche dürfen präzisieren.
 
 ## Regeln
 
@@ -33,6 +33,7 @@ Assistenz-Regeln (Audit 03.11.2026, Konzept in /opt/ops/notizen/assistenz-konzep
 10. Termine: Google-Kalender ist die Terminquelle (Entscheidung 03.11.), bis der Google-Ausstieg kommt.
 11. Ein Repo, eine Instanz pro Tag; der Faden nennt im Feld ablage, wer dran ist. Wer mergen kann, merged.
 12. (Max, 06.11.2026) Alle textlichen Arbeitsergebnisse – vor allem Lore, Konzepte, GDDs, Figurenblätter, Regeln, Entscheidungen – werden auf jeden Fall zusätzlich in dieses PocketBase-Gedächtnis geschrieben, nicht nur in Dateien, Chat-Ausgaben oder den internen Speicher eines Tools. Inhalt als eigener Bereich (bereich_schreiben, bei Länge mehrere Bereiche wie broken_shell_lore_1…n), Fundort/Datei im Feld ablage, der Faden verweist darauf. Grund: Der Chat-Container (/mnt/user-data/outputs, Session-VM) ist flüchtig und für andere Instanzen unsichtbar; am 06.11. waren GDD und Prototyp von Broken Shell deshalb für eine zweite Instanz nicht auffindbar. Gilt für jede Instanz und jedes Modell.
+13. (Max, 12.11.2026) Technische Lösung bevorzugt: effizient und transparent. Claude soll auf Max' Rechnern grundsätzlich Terminal-Zugriff haben und Arbeit über Shell, Skripte und Einzeiler erledigen. Fehlt der Terminal-Zugriff in einer Sitzung, nicht ausweichen, sondern den Weg dorthin empfehlen (z. B. Claude Code lokal auf dem Gerät). Keine Fernsteuerung per Klick auf Max' Rechnern (Rechner „wie mit TeamViewer“ übernehmen und herumklicken).
 
 ## Links
 

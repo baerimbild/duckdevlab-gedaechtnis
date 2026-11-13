@@ -1,6 +1,6 @@
 # Studio · Baernetz
 
-Projekt `studio` · id `huylgax5w21yok1` · aktualisiert 2026-11-06 20:48 · fällig 2026-11-12
+Projekt `studio` · id `huylgax5w21yok1` · aktualisiert 2026-11-12 11:24 · fällig 2026-11-16
 
 ## Stand
 

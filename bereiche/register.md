@@ -1,12 +1,14 @@
 # Register – Geräte, Claude-Instanzen, Rechte, Repos (vor „ich kann das nicht“ lesen)
 
-`key: register` · aktualisiert 2026-11-06 20:14 · id `5sr5fbfrkowiwwr`
+`key: register` · aktualisiert 2026-11-12 12:08 · id `5sr5fbfrkowiwwr`
 
 ## Kurzstand
 
-06.11.2026: vServer hat jetzt ausgehendes SSH/Git zu GitHub (account-weiter Key, Max' Entscheidung 06.11.); /opt/ops/docs/src ist ein echter Klon von duckdevlab-docs; tägliches Backup + Gedächtnis-Export laufen. — 03.11.2026 angelegt im Audit. Jede Instanz liest dieses Register, bevor sie behauptet, etwas nicht zu können, und trägt sich ein, wenn sie neu eingerichtet wird. Rechte-Entscheidungen von Max vom 03.11.: wombat volles sudo; WSL darf KI-Dienste starten/stoppen, Pakete installieren, Reachy-Agent deployen; Desktop-App auf IlluminaWS für Ordnerzugriff E:\Studio und Computer-Steuerung (Godot, Blender, ComfyUI). Repos: Stand 03.11. keine offenen PRs, aber viele gemergte Branches liegen herum.
+12.11.2026: Nachtrag zur Entendrachen-Bridge (keine Shell, Computer-Steuerung unerwünscht) und zu stand_schreiben. — 06.11.2026: vServer hat jetzt ausgehendes SSH/Git zu GitHub (account-weiter Key, Max' Entscheidung 06.11.); /opt/ops/docs/src ist ein echter Klon von duckdevlab-docs; tägliches Backup + Gedächtnis-Export laufen. — 03.11.2026 angelegt im Audit. Jede Instanz liest dieses Register, bevor sie behauptet, etwas nicht zu können, und trägt sich ein, wenn sie neu eingerichtet wird. Rechte-Entscheidungen von Max vom 03.11.: wombat volles sudo; WSL darf KI-Dienste starten/stoppen, Pakete installieren, Reachy-Agent deployen; Desktop-App auf IlluminaWS für Ordnerzugriff E:\Studio und Computer-Steuerung (Godot, Blender, ComfyUI). Repos: Stand 03.11. keine offenen PRs, aber viele gemergte Branches liegen herum.
 
 ## Regeln
+
+NACHTRAG 12.11.2026 (Erfahrung Cloud-Session mit Entendrachen-Bridge): Die Cloud-Session hat auf dem Entendrachen nur Datei-Tools (auflisten, holen, zurückschreiben), keine Shell. Die Computer-Steuerung kann Terminals nicht betippen, das Einstellungen-Fenster kam nur als graue Fläche an, und sie blendet Max' übrige Fenster aus; Max will sie nicht (Regel 13 in „allgemein“). Bewährter Weg bis dahin: Skript in einen freigegebenen Ordner legen, Max startet es mit einem Einzeiler, Ergebnisdatei zurücklesen. Offen: echter Terminal-Zugriff auf dem Entendrachen (Claude Code lokal), siehe Faden 7mx0jh0mt8ey1w8. Außerdem: stand_schreiben schreibt das Feld stand immer mit (leer = Fehler); einzelne Felder lassen sich verlustfrei nur per PATCH über die PocketBase-API ändern (TOK=$(/root/bin/pb-token)).
 
 NACHTRAG 06.11.2026 (Max' Entscheidung: Zugang vor Vorsicht):
 - vServer (Zeile 1) DARF jetzt ausgehend per SSH/Git zu GitHub: Key /root/.ssh/id_ed25519_github_server, Host-Alias `github.com-server` (git@github.com-server:baerimbild/<repo>.git), als SSH-Key im Account baerimbild hinterlegt → Lesen und Pushen auf ALLE baerimbild-Repos. Damit braucht Claude für Repo-Arbeit keine claude.ai-GitHub-Freigabe mehr: über den Connector „Server“ klonen, committen, pushen. Repos ANLEGEN geht per SSH nicht (nur Max, GitHub-UI).

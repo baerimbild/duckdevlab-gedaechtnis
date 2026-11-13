@@ -1,6 +1,6 @@
 # Studio · Sites-Panel und Deploy-Pipeline
 
-Projekt `studio` · id `wmiuiccuefp6cr6` · aktualisiert 2026-11-06 08:19 · fällig 2026-11-12
+Projekt `studio` · id `wmiuiccuefp6cr6` · aktualisiert 2026-11-12 11:24 · fällig 2026-11-16
 
 ## Stand
 

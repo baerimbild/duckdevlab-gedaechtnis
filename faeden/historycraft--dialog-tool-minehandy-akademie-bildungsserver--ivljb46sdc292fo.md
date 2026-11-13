@@ -1,6 +1,6 @@
 # Dialog-Tool → MineHandy (Akademie-Bildungsserver)
 
-Projekt `historycraft` · id `ivljb46sdc292fo` · aktualisiert 2026-11-04 08:16 · fällig 2026-11-10
+Projekt `historycraft` · id `ivljb46sdc292fo` · aktualisiert 2026-11-12 11:24 · fällig 2026-11-16
 
 ## Stand
 

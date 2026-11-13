@@ -1,6 +1,6 @@
 # Inner Shell · Projektplanung neu (November 2026)
 
-Projekt `inner_shell` · id `kymbx8b7qkmkqfm` · aktualisiert 2026-11-03 07:44 · fällig 2026-11-11
+Projekt `inner_shell` · id `kymbx8b7qkmkqfm` · aktualisiert 2026-11-12 11:24 · fällig 2026-11-16
 
 ## Stand
 

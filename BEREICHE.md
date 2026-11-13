@@ -2,7 +2,7 @@
 
 | key | Name | zuletzt |
 |---|---|---|
-| [allgemein](bereiche/allgemein.md) | Allgemein – gilt für alle Interaktionen (projekt-, instanz- und LLM-unabhängig) | 2026-11-06 |
+| [allgemein](bereiche/allgemein.md) | Allgemein – gilt für alle Interaktionen (projekt-, instanz- und LLM-unabhängig) | 2026-11-12 |
 | [broken_shell_lore](bereiche/broken_shell_lore.md) | Broken Shell · Lore I: Rahmen und Weltmechanik | 2026-11-04 |
 | [broken_shell_lore_2](bereiche/broken_shell_lore_2.md) | Broken Shell · Lore II: Geschichten I–III | 2026-11-04 |
 | [broken_shell_lore_3](bereiche/broken_shell_lore_3.md) | Broken Shell · Lore III: Geschichten IV–V, Traktate, Motive | 2026-11-04 |
@@ -47,7 +47,9 @@
 | [makermon](bereiche/makermon.md) | Makermon (MakerDays-Kinderprojekt) | 2026-11-02 |
 | [materia_prima_lore](bereiche/materia_prima_lore.md) | Materia Prima · Lore (altes Universum von Max) | 2026-11-04 |
 | [materia_prima_lore_2](bereiche/materia_prima_lore_2.md) | Materia Prima · Lore II: Die Fremden, Encephalon, Verbindung zu den Schalen | 2026-11-06 |
-| [register](bereiche/register.md) | Register – Geräte, Claude-Instanzen, Rechte, Repos (vor „ich kann das nicht“ lesen) | 2026-11-06 |
+| [register](bereiche/register.md) | Register – Geräte, Claude-Instanzen, Rechte, Repos (vor „ich kann das nicht“ lesen) | 2026-11-12 |
+| [rimworld_with_you](bereiche/rimworld_with_you.md) | RimWorld With You – Familien-Mod (Konzept, Entscheidungen, Ablage) | 2026-11-12 |
+| [rimworld_with_you_besetzung](bereiche/rimworld_with_you_besetzung.md) | RimWorld With You · Plüsch-Besetzung (Urschl, Niv/ernste Ente, Bär, Schnorbs) | 2026-11-12 |
 | [studio](bereiche/studio.md) | Studio / DuckDevLab (Infrastruktur, Hosting, Organisation) | 2026-11-03 |
 | [wandering_shell_roguelite_e](bereiche/wandering_shell_roguelite_e.md) | Wandering Shell · Idee: Roguelite mit jungem e als Protagonist (Max, 07.11.2026) | 2026-11-07 |
 | [wandering_shell_roguelite_e_2](bereiche/wandering_shell_roguelite_e_2.md) | Wandering Shell · Roguelite mit jungem e (Fortsetzung): Avatar, Progression, Ton | 2026-11-07 |

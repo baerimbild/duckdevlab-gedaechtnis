@@ -1,6 +1,6 @@
 # Studio · Reachy Dock – Übersicht Zugänge & Abläufe (Besprechung 2.11.)
 
-Projekt `studio` · id `l3b6zgbipp7t2rz` · aktualisiert 2026-11-03 07:12 · fällig 2026-11-04
+Projekt `studio` · id `l3b6zgbipp7t2rz` · aktualisiert 2026-11-12 11:24 · fällig 2026-11-16
 
 ## Stand
 

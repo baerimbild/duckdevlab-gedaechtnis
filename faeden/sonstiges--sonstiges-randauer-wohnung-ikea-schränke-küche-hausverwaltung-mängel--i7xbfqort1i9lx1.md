@@ -1,6 +1,6 @@
 # Sonstiges · Randauer Wohnung: IKEA (Schränke, Küche) + Hausverwaltung (Mängel)
 
-Projekt `sonstiges` · id `i7xbfqort1i9lx1` · aktualisiert 2026-11-04 18:55 · fällig 2026-11-09
+Projekt `sonstiges` · id `i7xbfqort1i9lx1` · aktualisiert 2026-11-12 11:24 · fällig 2026-11-16
 
 ## Stand
 

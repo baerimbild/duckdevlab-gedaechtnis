@@ -1,6 +1,6 @@
 # Makermon · Weiterführung nach den Maker Days
 
-Projekt `makermon` · id `5e8ir1ps1yzea54` · aktualisiert 2026-11-04 08:16 · fällig 2026-11-12
+Projekt `makermon` · id `5e8ir1ps1yzea54` · aktualisiert 2026-11-12 11:24 · fällig 2026-11-16
 
 ## Stand
 

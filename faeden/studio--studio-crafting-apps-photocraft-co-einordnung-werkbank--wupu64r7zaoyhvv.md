@@ -1,6 +1,6 @@
 # Studio · Crafting Apps (PhotoCraft & Co.) – Einordnung Werkbank
 
-Projekt `studio` · id `wupu64r7zaoyhvv` · aktualisiert 2026-11-03 07:12 · fällig 2026-11-10
+Projekt `studio` · id `wupu64r7zaoyhvv` · aktualisiert 2026-11-12 11:24 · fällig 2026-11-16
 
 ## Stand
 
