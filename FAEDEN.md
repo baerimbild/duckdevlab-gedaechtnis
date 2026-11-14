@@ -4,6 +4,7 @@
 
 | Projekt | Faden | fällig | zuletzt |
 |---|---|---|---|
+| sonstiges | [Investment Hub · Ansatz, Recherche, Anforderungen (Papa)](faeden/sonstiges--investment-hub-ansatz-recherche-anforderungen-papa--08ggx3c8blvm9wv.md) | 2026-11-16 | 2026-11-13 |
 | studio | [Studio · Struktur-Audit + Master-Claude (Überblick über alle Agents) – WICHTIG](faeden/studio--studio-struktur-audit-master-claude-überblick-über-alle-agents-wichtig--0jgamas2so6mxxe.md) | 2026-11-16 | 2026-11-12 |
 | sonstiges | [Sonstiges · RimWorld With You (Familien-Mod bis Weihnachten 2026)](faeden/sonstiges--sonstiges-rimworld-with-you-familien-mod-bis-weihnachten-2026--fj5gaao55e1pf5y.md) | 2026-11-13 | 2026-11-12 |
 | studio | [Studio · Entendrachen entmüllen (Platz schaffen)](faeden/studio--studio-entendrachen-entmüllen-platz-schaffen--7mx0jh0mt8ey1w8.md) | 2026-11-16 | 2026-11-12 |

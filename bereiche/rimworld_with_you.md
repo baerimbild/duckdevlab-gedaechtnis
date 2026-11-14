@@ -1,10 +1,10 @@
 # RimWorld With You – Familien-Mod (Konzept, Entscheidungen, Ablage)
 
-`key: rimworld_with_you` · aktualisiert 2026-11-12 11:53 · id `b5g10ual3t7wupl`
+`key: rimworld_with_you` · aktualisiert 2026-11-13 11:58 · id `b5g10ual3t7wupl`
 
 ## Kurzstand
 
-12.11.2026, 12:55: RimWorld ist auf dem Entendrachen installiert (Steam, 0,9 GB; laut Platz-Report). Dort kann also gebaut und getestet werden; die Platte ist aber fast voll (7,5 GB frei, Faden 7mx0jh0mt8ey1w8). — 12.11.2026: Konzept v0.1 angelegt. Richtung von Max bestätigt: RimWorld 1.6, wahrscheinlich ein Bildschirm, RimPsyche (Core + Disposition) und Harmony als Unterbau. RimPsyche ist selbst Big Five mit 15 Facetten und lässt sich per Code und per Preset-Datei befüllen; wir bauen Fragebogen, Generator, kleinen Engine-Mod und das Content-Pack Familie. Erster Einsatz Weihnachten 2026. Noch kein Code, noch kein Repo.
+13.11.2026 (Claude Cloud-Session): Der Fragebogen ist als Webapp live, https://kolonie.duckdevlab.com (Kolonisten-Meldeamt): 60 Aussagen, Fremdeinschätzung, Aussehen mit Vorschau, Foto-Vorschlag gebaut, aber ohne API-Schlüssel noch aus. Daten in PocketBase rwy_*, Export als Profil-YAML ins Pack, die Mod liest die Datenbank nicht. Gruppe „Familie Weihnachten 2026“ angelegt. Die Mod selbst ist seit 12.11. weit gebaut (Engine, Pack Familie, Testrunde gespielt); der laufende Stand steht im Repo in docs/STAND.md, weil stand_schreiben am Faden scheitert: Feld stand fasst 4000 Zeichen, der Faden steht bei 3527. — 12.11.2026, 12:55: RimWorld ist auf dem Entendrachen installiert (Steam, 0,9 GB; laut Platz-Report). Dort kann also gebaut und getestet werden; die Platte ist aber fast voll (7,5 GB frei, Faden 7mx0jh0mt8ey1w8). — 12.11.2026: Konzept v0.1 angelegt. Richtung von Max bestätigt: RimWorld 1.6, wahrscheinlich ein Bildschirm, RimPsyche (Core + Disposition) und Harmony als Unterbau. RimPsyche ist selbst Big Five mit 15 Facetten und lässt sich per Code und per Preset-Datei befüllen; wir bauen Fragebogen, Generator, kleinen Engine-Mod und das Content-Pack Familie. Erster Einsatz Weihnachten 2026. Noch kein Code, noch kein Repo.
 
 ## Regeln
 
@@ -57,8 +57,8 @@ OFFEN: RimWorld auf dem Entendrachen installiert? Wo bauen und testen? · Selbst
 
 ## Ablage
 
-Maßgeblich: dieser Bereich. Kopie: claude.ai-Projekt „rimworld with you / big 5 personality mod“, Projekt-Doc claude/konzept.md. Code (noch leer, kein Repo): Entendrachen C:\Users\maxst\Documents\Projekte\rimworld_with_you_mod. Faden: fj5gaao55e1pf5y. Verwandt: Faden 7mx0jh0mt8ey1w8 (Entendrachen entmüllen), Faden ybeano97rjxld31 (Plüsch-Meldeamt).
+Maßgeblich: dieser Bereich. Kopie: claude.ai-Projekt „rimworld with you / big 5 personality mod“, Projekt-Doc claude/konzept.md. Code (noch leer, kein Repo): Entendrachen C:\Users\maxst\Documents\Projekte\rimworld_with_you_mod. Faden: fj5gaao55e1pf5y. Verwandt: Faden 7mx0jh0mt8ey1w8 (Entendrachen entmüllen), Faden ybeano97rjxld31 (Plüsch-Meldeamt). | Seit 12./13.11.2026: Code im Repo baerimbild/baerimbild-rimworld-with-you (privat, main), laufender Stand dort in docs/STAND.md, Beschreibung in CLAUDE.md. Webapp: Ordner webapp/ im Repo, Klon auf dem vServer /opt/ops/src/rimworld-with-you, Server-Doku dienste/kolonie.md.
 
 ## Links
 
-https://github.com/jagerguy36/Rimpsyche | https://github.com/jagerguy36/Rimpsyche_Disposition | https://github.com/jagerguy36/Rimpsyche/wiki/For-Modders | https://steamcommunity.com/sharedfiles/filedetails/?id=3535112473 | https://ludeon.com
+https://github.com/jagerguy36/Rimpsyche | https://github.com/jagerguy36/Rimpsyche_Disposition | https://github.com/jagerguy36/Rimpsyche/wiki/For-Modders | https://steamcommunity.com/sharedfiles/filedetails/?id=3535112473 | https://ludeon.com | https://kolonie.duckdevlab.com | https://github.com/baerimbild/baerimbild-rimworld-with-you

@@ -1,10 +1,10 @@
 # Studio / DuckDevLab (Infrastruktur, Hosting, Organisation)
 
-`key: studio` · aktualisiert 2026-11-03 18:20 · id `nu60uzc8dd1yays`
+`key: studio` · aktualisiert 2026-11-13 11:58 · id `nu60uzc8dd1yays`
 
 ## Kurzstand
 
-03.11.2026: Neu auf dem vServer: Luanti-Dialoge-Testserver /opt/dialoge-test (UDP 30001, Container luanti-dialoge) und Veröffentlichungs-API /opt/dialoge-api (dialoge.duckdevlab.com, Caddy-Block @dialoge, PANEL_RESERVED +dialoge). Quellen der privaten Repos als Kopien unter /opt/ops/src/luanti-dialoge*. Doku: dienste/luanti-dialoge.md. Davor (28.10.): Server-MCP, pluesch, PocketBase-WAL-Vorfall, Umbau 27.10.
+13.11.2026: Neu auf dem vServer: Kolonisten-Meldeamt (RimWorld With You), kolonie.duckdevlab.com. Statische Seite /opt/sites/library/kolonie, Foto-Dienst /opt/kolonie (Container kolonie-api, Caddy-Block @kolonieapi, noch ohne API-Schlüssel), Quelle /opt/ops/src/rimworld-with-you, PocketBase-Collections rwy_* (Zugriff ohne Login über Gruppen-Code und Token; Backup davor vor-kolonie-2026-11-13.zip). Doku: dienste/kolonie.md. Auf dem PC nachzuziehen: duckdevlab-ops (Audit-Protokoll, Kopie /opt/kolonie). — 03.11.2026: Neu auf dem vServer: Luanti-Dialoge-Testserver /opt/dialoge-test (UDP 30001, Container luanti-dialoge) und Veröffentlichungs-API /opt/dialoge-api (dialoge.duckdevlab.com, Caddy-Block @dialoge, PANEL_RESERVED +dialoge). Quellen der privaten Repos als Kopien unter /opt/ops/src/luanti-dialoge*. Doku: dienste/luanti-dialoge.md. Davor (28.10.): Server-MCP, pluesch, PocketBase-WAL-Vorfall, Umbau 27.10.
 
 ## Regeln
 
