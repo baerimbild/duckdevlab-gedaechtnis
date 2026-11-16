@@ -1,10 +1,10 @@
 # Dialog-Tool → MineHandy (Akademie-Bildungsserver)
 
-Projekt `historycraft` · id `ivljb46sdc292fo` · aktualisiert 2026-11-12 11:24 · fällig 2026-11-16
+Projekt `historycraft` · id `ivljb46sdc292fo` · aktualisiert 2026-11-15 11:47 · fällig 2026-11-16
 
 ## Stand
 
-03.11.2026: Mail ans Akademie-Team ist raus (Max). Team testet jetzt (Klickliste, Häkchen-Layout, Rüstungsständer).
+15.11.2026: Rollen geklärt: Tobias entscheidet (für Max maßgeblich, hat sich noch nicht gemeldet), Thomas ist ehrenamtlicher Server-Admin und wird voraussichtlich nichts freigeben. 4d (Pull aus der Mod, braucht secure.http_mods) deshalb geparkt, nicht gebaut. Minimalweg steht: Mod + ZIP aus „Weitergeben…“, Editor 0.1.1 online, Testserver + API auf dem vServer als Demo. Bug bei Amalie bestätigt (0.1.0: beide Window-Knoten beim Start sichtbar an (0,0), headless belegt).
 
 ## Offen
 
@@ -12,7 +12,7 @@ Fehlen (nicht auf ContentDB, eigene Mods oder nur Git): advnumbers, bale, bible,
 
 ## Nächster Schritt
 
-Rückmeldungen vom Team sammeln und in Fäden/Issues überführen. Build-Ordner editor/build im Sandbox-Klon ist gitignored und darf stehen bleiben.
+Auf Tobias warten (Bedarf ja/nein). Bis dahin nichts bauen. Falls ja: Thomas bekommt fuer-admins-kurz.pdf + ZIP-Weg; 4d nur, wenn jemand die drei Zeilen in minetest.conf freigibt. Amalie testet 0.1.1.
 
 ## Ablage
 

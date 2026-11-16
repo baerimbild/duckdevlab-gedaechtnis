@@ -4,6 +4,7 @@
 
 | Projekt | Faden | fällig | zuletzt |
 |---|---|---|---|
+| historycraft | [Dialog-Tool → MineHandy (Akademie-Bildungsserver)](faeden/historycraft--dialog-tool-minehandy-akademie-bildungsserver--ivljb46sdc292fo.md) | 2026-11-16 | 2026-11-15 |
 | sonstiges | [Investment Hub · Ansatz, Recherche, Anforderungen (Papa)](faeden/sonstiges--investment-hub-ansatz-recherche-anforderungen-papa--08ggx3c8blvm9wv.md) | 2026-11-16 | 2026-11-13 |
 | studio | [Studio · Struktur-Audit + Master-Claude (Überblick über alle Agents) – WICHTIG](faeden/studio--studio-struktur-audit-master-claude-überblick-über-alle-agents-wichtig--0jgamas2so6mxxe.md) | 2026-11-16 | 2026-11-12 |
 | sonstiges | [Sonstiges · RimWorld With You (Familien-Mod bis Weihnachten 2026)](faeden/sonstiges--sonstiges-rimworld-with-you-familien-mod-bis-weihnachten-2026--fj5gaao55e1pf5y.md) | 2026-11-13 | 2026-11-12 |
@@ -14,7 +15,6 @@
 | studio | [Studio · Sites-Panel und Deploy-Pipeline](faeden/studio--studio-sites-panel-und-deploy-pipeline--wmiuiccuefp6cr6.md) | 2026-11-16 | 2026-11-12 |
 | inner_shell | [Inner Shell · Projektplanung neu (November 2026)](faeden/inner_shell--inner-shell-projektplanung-neu-november-2026--kymbx8b7qkmkqfm.md) | 2026-11-16 | 2026-11-12 |
 | studio | [Studio · Crafting Apps (PhotoCraft & Co.) – Einordnung Werkbank](faeden/studio--studio-crafting-apps-photocraft-co-einordnung-werkbank--wupu64r7zaoyhvv.md) | 2026-11-16 | 2026-11-12 |
-| historycraft | [Dialog-Tool → MineHandy (Akademie-Bildungsserver)](faeden/historycraft--dialog-tool-minehandy-akademie-bildungsserver--ivljb46sdc292fo.md) | 2026-11-16 | 2026-11-12 |
 | sonstiges | [Sonstiges · Randauer Wohnung: IKEA (Schränke, Küche) + Hausverwaltung (Mängel)](faeden/sonstiges--sonstiges-randauer-wohnung-ikea-schränke-küche-hausverwaltung-mängel--i7xbfqort1i9lx1.md) | 2026-11-16 | 2026-11-12 |
 | broken_shell | [Broken Shell · Opening-Teaser (Bild, Video, Musik, Stimme)](faeden/broken_shell--broken-shell-opening-teaser-bild-video-musik-stimme--hnmjllgnde31ut6.md) | 2026-11-16 | 2026-11-12 |
 | ttrpg | [TTRPG · Wandering Shell Webapp (Repo + Claude-Code-Auftrag)](faeden/ttrpg--ttrpg-wandering-shell-webapp-repo-claude-code-auftrag--hgxabvmilxg4xt7.md) | 2026-11-16 | 2026-11-12 |
