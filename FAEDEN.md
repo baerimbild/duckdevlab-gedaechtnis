@@ -4,6 +4,7 @@
 
 | Projekt | Faden | fällig | zuletzt |
 |---|---|---|---|
+| inner_shell | [Minecraft 26.2 · Dil-Sekte: Instanz, Shader, Skins](faeden/inner_shell--minecraft-26-2-dil-sekte-instanz-shader-skins--vb2ev58fqkk4ujo.md) |  | 2026-11-18 |
 | historycraft | [Dialog-Tool → MineHandy (Akademie-Bildungsserver)](faeden/historycraft--dialog-tool-minehandy-akademie-bildungsserver--ivljb46sdc292fo.md) | 2026-11-16 | 2026-11-15 |
 | sonstiges | [Investment Hub · Ansatz, Recherche, Anforderungen (Papa)](faeden/sonstiges--investment-hub-ansatz-recherche-anforderungen-papa--08ggx3c8blvm9wv.md) | 2026-11-16 | 2026-11-13 |
 | studio | [Studio · Struktur-Audit + Master-Claude (Überblick über alle Agents) – WICHTIG](faeden/studio--studio-struktur-audit-master-claude-überblick-über-alle-agents-wichtig--0jgamas2so6mxxe.md) | 2026-11-16 | 2026-11-12 |

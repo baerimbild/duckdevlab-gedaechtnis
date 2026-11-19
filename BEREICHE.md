@@ -16,6 +16,7 @@
 | [inner_shell_lore_antitheton](bereiche/inner_shell_lore_antitheton.md) | Inner Shell · Lore · Antitheton, Untergang des ersten Kosmoiden | 2026-11-04 |
 | [inner_shell_lore_dil](bereiche/inner_shell_lore_dil.md) | Inner Shell · Lore · Volk · Dil | 2026-11-04 |
 | [inner_shell_lore_einsiedeleien](bereiche/inner_shell_lore_einsiedeleien.md) | Inner Shell · Lore · Einsiedeleien, Dil-Forschung, Rollenspiel-Figuren | 2026-11-04 |
+| [inner_shell_lore_einsiedeleien_2](bereiche/inner_shell_lore_einsiedeleien_2.md) | Inner Shell · Lore · Einsiedeleien (Fortsetzung): Rollenspiel-Dil, Minecraft-Dil-Sekte | 2026-11-18 |
 | [inner_shell_lore_figuren](bereiche/inner_shell_lore_figuren.md) | Inner Shell · Lore · Figuren | 2026-11-04 |
 | [inner_shell_lore_fragen](bereiche/inner_shell_lore_fragen.md) | Inner Shell · Lore · Offene Fragen und Hypothesen | 2026-11-04 |
 | [inner_shell_lore_fragen_2](bereiche/inner_shell_lore_fragen_2.md) | Inner Shell · Lore · Offene Fragen (Fortsetzung) | 2026-11-04 |
