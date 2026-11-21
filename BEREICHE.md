@@ -2,7 +2,7 @@
 
 | key | Name | zuletzt |
 |---|---|---|
-| [allgemein](bereiche/allgemein.md) | Allgemein – gilt für alle Interaktionen (projekt-, instanz- und LLM-unabhängig) | 2026-11-12 |
+| [allgemein](bereiche/allgemein.md) | Allgemein – gilt für alle Interaktionen (projekt-, instanz- und LLM-unabhängig) | 2026-11-20 |
 | [broken_shell_lore](bereiche/broken_shell_lore.md) | Broken Shell · Lore I: Rahmen und Weltmechanik | 2026-11-04 |
 | [broken_shell_lore_2](bereiche/broken_shell_lore_2.md) | Broken Shell · Lore II: Geschichten I–III | 2026-11-04 |
 | [broken_shell_lore_3](bereiche/broken_shell_lore_3.md) | Broken Shell · Lore III: Geschichten IV–V, Traktate, Motive | 2026-11-04 |

@@ -1,10 +1,11 @@
 # Dialog-Tool → MineHandy (Akademie-Bildungsserver)
 
-Projekt `historycraft` · id `ivljb46sdc292fo` · aktualisiert 2026-11-15 11:47 · fällig 2026-11-16
+Projekt `historycraft` · id `ivljb46sdc292fo` · aktualisiert 2026-11-20 09:04
 
 ## Stand
 
-15.11.2026: Rollen geklärt: Tobias entscheidet (für Max maßgeblich, hat sich noch nicht gemeldet), Thomas ist ehrenamtlicher Server-Admin und wird voraussichtlich nichts freigeben. 4d (Pull aus der Mod, braucht secure.http_mods) deshalb geparkt, nicht gebaut. Minimalweg steht: Mod + ZIP aus „Weitergeben…“, Editor 0.1.1 online, Testserver + API auf dem vServer als Demo. Bug bei Amalie bestätigt (0.1.0: beide Window-Knoten beim Start sichtbar an (0,0), headless belegt).
+20.11.2026 (Max): Läuft soweit, Max reagiert hier eher als er agiert. Keine Fälligkeit mehr; wird aktiv, wenn Tobias oder Amalie sich melden.
+— 15.11.2026: Rollen geklärt: Tobias entscheidet (für Max maßgeblich, hat sich noch nicht gemeldet), Thomas ist ehrenamtlicher Server-Admin und wird voraussichtlich nichts freigeben. 4d (Pull aus der Mod, braucht secure.http_mods) deshalb geparkt, nicht gebaut. Minimalweg steht: Mod + ZIP aus „Weitergeben…“, Editor 0.1.1 online, Testserver + API auf dem vServer als Demo. Bug bei Amalie bestätigt (0.1.0: beide Window-Knoten beim Start sichtbar an (0,0), headless belegt).
 
 ## Offen
 

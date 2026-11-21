@@ -1,14 +1,13 @@
 # Studio · Struktur-Audit + Master-Claude (Überblick über alle Agents) – WICHTIG
 
-Projekt `studio` · id `0jgamas2so6mxxe` · aktualisiert 2026-11-12 12:30 · fällig 2026-11-16
+Projekt `studio` · id `0jgamas2so6mxxe` · aktualisiert 2026-11-20 09:04 · fällig 2026-11-30
 
 ## Stand
 
-06.11.2026 (Cloud, Briefing-Session): Max präzisiert die Vision und bittet, das Thema im Blick zu behalten („on track“). ZIEL: alle wesentlichen Daten lokal, modell-/anbieter-agnostisch, ein kuratierter Stand (Wiki/Obsidian), bei dem sicher ist: das ist aktuell – entweder Claude fragen oder dort nachschauen. ROLLEN: wombat = Master-Claude, behält alles im Blick, startet/ergänzt Dienste; IlluminaWS = Hilfs-KI-Suite für Medienproduktion + Spezial-KIs (Aufräumen, Medienklassifikation), die der Master anweist und überwacht; Entendrache = mobiler Zugangspunkt von überall; später Julias Rechner und Garten (Solar, Sensorik). Vorher gewünscht: grundständige Bereinigung des Datenstands. PROBLEM (Max): zwei Gedächtnisse (Anthropic-intern ~80 Dateien mit Dubletten vs. PocketBase-Gedächtnis), stand_schreiben überschreibt `stand`, Instanzen priorisieren teils falsche Quelle. Max denkt sprunghaft, mehrere Themen pro Chat → Struktur muss das abfangen (Themen als Fäden parken, Einordnung zuerst). BEST-PRACTICE-RECHERCHE (Claude): Karpathy „LLM Wiki“ (04/2026: Rohquellen unveränderlich, LLM pflegt Markdown-Wiki, Schema-Datei, Workflows ingest/query/lint, Git + Obsidian), OpenClaw-Muster (MEMORY.md ≤200 Zeilen für Stabiles + append-only Tageslogs, Konsolidierung: neues ersetzt in MEMORY.md, altes bleibt im Log), Markdown/SQLite statt Vektor-DB für Einzelnutzer. Max ist diese Woche in Leipzig ohne Hardware-Zugriff.
-
-04.11.2026: Assistenz-Kram (Repo duckdevlab-assistenz, PRs aus AUFTRAG.md) ist mit dem Cloud-Guthaben gebaut, aber noch nicht implementiert/deployt (Max). Cloud-Guthaben ist verbraucht; weitere Arbeit läuft über lokale Instanzen (wombat, WSL) oder Connector „Server“.
-
-03.11.2026, 9:30: Repo baerimbild/duckdevlab-assistenz angelegt und befüllt (main): mcp/ (server.py = Produktionsstand, Dockerfile, compose, env.example), schema/ (claude_stand, claude_bereich, neu claude_health, claude_bericht), prompts/ (Morgen-Briefing, Wochenschluss), ARCHITEKTUR.md, AUFTRAG.md (PR 1 MCP+Schema+Tests, PR 2 Master auf wombat, PR 3 Controller+Übersicht), CLAUDE.md, docs/konzept.md, docs/ENTSCHEIDUNGEN.md, deploy.sh.
+20.11.2026 (Max, Briefing-Rückmeldung): Dringend nötig, weil Claude nicht sicher weiß, was abgearbeitet ist, verschiedene Instanzen verschiedene Stände haben und PocketBase aus Max' Sicht nicht optimal genutzt wird → fragmentierte Stände. Aber: Max hat keine Lust darauf; Zwang nur, wenn aus Claudes Sicht alles im Chaos versinkt. Solange die Struktur funktioniert, gehen Wandering Shell, dann Dil-Sekte / Broken Shell vor. Beleg aus dem Briefing 20.11.: 19 Fäden „fällig“, davon rund die Hälfte in Wahrheit erledigt, pausiert oder wartend – die Fälligkeiten wurden am 12.11. pauschal auf 16.11. gesetzt und nie nachgezogen. Heute per Rückmeldung bereinigt (10 Fäden).
+— 06.11.2026 (Cloud, Briefing-Session): Max präzisiert die Vision. ZIEL: alle wesentlichen Daten lokal, modell-/anbieter-agnostisch, ein kuratierter Stand (Wiki/Obsidian), bei dem sicher ist: das ist aktuell. ROLLEN: wombat = Master-Claude; IlluminaWS = Hilfs-KI-Suite für Medienproduktion + Spezial-KIs; Entendrache = mobiler Zugangspunkt; später Julias Rechner und Garten. Vorher: grundständige Bereinigung des Datenstands. PROBLEM: zwei Gedächtnisse (Anthropic-intern ~80 Dateien mit Dubletten vs. PocketBase), stand_schreiben überschreibt `stand`, Instanzen priorisieren teils falsche Quelle. Max denkt sprunghaft → Struktur muss das abfangen. BEST-PRACTICE-RECHERCHE: Karpathy „LLM Wiki“ (Rohquellen unveränderlich, LLM pflegt Markdown-Wiki, Schema, ingest/query/lint, Git + Obsidian), OpenClaw-Muster (MEMORY.md ≤200 Zeilen + append-only Tageslogs), Markdown/SQLite statt Vektor-DB.
+— 04.11.2026: Assistenz-Kram (Repo duckdevlab-assistenz, PRs aus AUFTRAG.md) mit Cloud-Guthaben gebaut, nicht deployt. Weitere Arbeit über lokale Instanzen oder Connector „Server“.
+— 03.11.2026: Repo baerimbild/duckdevlab-assistenz angelegt (mcp/, schema/, prompts/, ARCHITEKTUR.md, AUFTRAG.md mit PR 1–3, docs/konzept.md, docs/ENTSCHEIDUNGEN.md, deploy.sh).
 
 ## Offen
 
@@ -26,7 +25,7 @@ Projekt `studio` · id `0jgamas2so6mxxe` · aktualisiert 2026-11-12 12:30 · fä
 
 ## Nächster Schritt
 
-Diese Woche (Leipzig, ohne Hardware): Konzept-Iteration als Doku im Repo duckdevlab-assistenz (docs/gedaechtnis-struktur.md: Schichten Rohquellen/kuratiert/Schema, verlauf-Collection, Export, Lint, Rollen wombat/Illumina/Entendrache) + PRs prüfen. Ab Randau: PR 1 deployen, verlauf + Export umsetzen, Hooks auf wombat/WSL, dann Grundbereinigung.
+Kleinster wirksamer Schritt ohne Max' Zeit: Briefing-Lauf pflegt Fälligkeiten nach Max' Rückmeldung nach (wie heute). Großer Schritt bleibt: verlauf-Collection (append-only), Export, Lint; PR 1 deployen; Hooks auf wombat/WSL. Wiedervorlage 30.11.
 
 ## Ablage
 
