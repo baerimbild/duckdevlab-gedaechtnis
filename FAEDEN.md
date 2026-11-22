@@ -4,14 +4,14 @@
 
 | Projekt | Faden | fällig | zuletzt |
 |---|---|---|---|
+| sonstiges | [Sonstiges · RimWorld With You (Familien-Mod bis Weihnachten 2026)](faeden/sonstiges--sonstiges-rimworld-with-you-familien-mod-bis-weihnachten-2026--fj5gaao55e1pf5y.md) | 2026-11-22 | 2026-11-21 |
+| ttrpg | [TTRPG · Wandering Shell Webapp (Repo + Claude-Code-Auftrag)](faeden/ttrpg--ttrpg-wandering-shell-webapp-repo-claude-code-auftrag--hgxabvmilxg4xt7.md) | 2026-11-22 | 2026-11-21 |
 | studio | [Studio · Struktur-Audit + Master-Claude (Überblick über alle Agents) – WICHTIG](faeden/studio--studio-struktur-audit-master-claude-überblick-über-alle-agents-wichtig--0jgamas2so6mxxe.md) | 2026-11-30 | 2026-11-20 |
-| ttrpg | [TTRPG · Wandering Shell Webapp (Repo + Claude-Code-Auftrag)](faeden/ttrpg--ttrpg-wandering-shell-webapp-repo-claude-code-auftrag--hgxabvmilxg4xt7.md) | 2026-11-20 | 2026-11-20 |
 | inner_shell | [Minecraft 26.2 · Dil-Sekte: Instanz, Shader, Skins](faeden/inner_shell--minecraft-26-2-dil-sekte-instanz-shader-skins--vb2ev58fqkk4ujo.md) | 2026-11-26 | 2026-11-20 |
 | sonstiges | [Sonstiges · Randauer Wohnung: PC im Abstellraum + Kabeldurchbruch](faeden/sonstiges--sonstiges-randauer-wohnung-pc-im-abstellraum-kabeldurchbruch--fq3kz34qnpaf9nj.md) |  | 2026-11-20 |
 | broken_shell | [Broken Shell · Opening-Teaser (Bild, Video, Musik, Stimme)](faeden/broken_shell--broken-shell-opening-teaser-bild-video-musik-stimme--hnmjllgnde31ut6.md) |  | 2026-11-20 |
 | sonstiges | [Sonstiges · Randauer Wohnung: IKEA (Schränke, Küche) + Hausverwaltung (Mängel)](faeden/sonstiges--sonstiges-randauer-wohnung-ikea-schränke-küche-hausverwaltung-mängel--i7xbfqort1i9lx1.md) |  | 2026-11-20 |
 | sonstiges | [Investment Hub · Ansatz, Recherche, Anforderungen (Papa)](faeden/sonstiges--investment-hub-ansatz-recherche-anforderungen-papa--08ggx3c8blvm9wv.md) |  | 2026-11-20 |
-| sonstiges | [Sonstiges · RimWorld With You (Familien-Mod bis Weihnachten 2026)](faeden/sonstiges--sonstiges-rimworld-with-you-familien-mod-bis-weihnachten-2026--fj5gaao55e1pf5y.md) |  | 2026-11-20 |
 | historycraft | [Dialog-Tool → MineHandy (Akademie-Bildungsserver)](faeden/historycraft--dialog-tool-minehandy-akademie-bildungsserver--ivljb46sdc292fo.md) |  | 2026-11-20 |
 | historycraft | [HistoryCraft · Angebot ANG-2026-001: Überführung in den Einsatzbetrieb (Ev. Akademie)](faeden/historycraft--historycraft-angebot-ang-2026-001-überführung-in-den-einsatzbetrieb-ev-akademie--jbuyteqv71nntg2.md) |  | 2026-11-20 |
 | sonstiges | [Sonstiges · Leipziger Wohnung übergeben (Mietvertrag bis 30.11.)](faeden/sonstiges--sonstiges-leipziger-wohnung-übergeben-mietvertrag-bis-30-11--jqf709i1vtxanxm.md) | 2026-11-27 | 2026-11-20 |
