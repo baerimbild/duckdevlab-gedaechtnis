@@ -4,6 +4,7 @@
 
 | Projekt | Faden | fällig | zuletzt |
 |---|---|---|---|
+| historycraft | [Dialog-Tool → MineHandy (Akademie-Bildungsserver)](faeden/historycraft--dialog-tool-minehandy-akademie-bildungsserver--ivljb46sdc292fo.md) |  | 2026-11-23 |
 | sonstiges | [Sonstiges · RimWorld With You (Familien-Mod bis Weihnachten 2026)](faeden/sonstiges--sonstiges-rimworld-with-you-familien-mod-bis-weihnachten-2026--fj5gaao55e1pf5y.md) | 2026-11-22 | 2026-11-21 |
 | ttrpg | [TTRPG · Wandering Shell Webapp (Repo + Claude-Code-Auftrag)](faeden/ttrpg--ttrpg-wandering-shell-webapp-repo-claude-code-auftrag--hgxabvmilxg4xt7.md) | 2026-11-22 | 2026-11-21 |
 | studio | [Studio · Struktur-Audit + Master-Claude (Überblick über alle Agents) – WICHTIG](faeden/studio--studio-struktur-audit-master-claude-überblick-über-alle-agents-wichtig--0jgamas2so6mxxe.md) | 2026-11-30 | 2026-11-20 |
@@ -12,7 +13,6 @@
 | broken_shell | [Broken Shell · Opening-Teaser (Bild, Video, Musik, Stimme)](faeden/broken_shell--broken-shell-opening-teaser-bild-video-musik-stimme--hnmjllgnde31ut6.md) |  | 2026-11-20 |
 | sonstiges | [Sonstiges · Randauer Wohnung: IKEA (Schränke, Küche) + Hausverwaltung (Mängel)](faeden/sonstiges--sonstiges-randauer-wohnung-ikea-schränke-küche-hausverwaltung-mängel--i7xbfqort1i9lx1.md) |  | 2026-11-20 |
 | sonstiges | [Investment Hub · Ansatz, Recherche, Anforderungen (Papa)](faeden/sonstiges--investment-hub-ansatz-recherche-anforderungen-papa--08ggx3c8blvm9wv.md) |  | 2026-11-20 |
-| historycraft | [Dialog-Tool → MineHandy (Akademie-Bildungsserver)](faeden/historycraft--dialog-tool-minehandy-akademie-bildungsserver--ivljb46sdc292fo.md) |  | 2026-11-20 |
 | historycraft | [HistoryCraft · Angebot ANG-2026-001: Überführung in den Einsatzbetrieb (Ev. Akademie)](faeden/historycraft--historycraft-angebot-ang-2026-001-überführung-in-den-einsatzbetrieb-ev-akademie--jbuyteqv71nntg2.md) |  | 2026-11-20 |
 | sonstiges | [Sonstiges · Leipziger Wohnung übergeben (Mietvertrag bis 30.11.)](faeden/sonstiges--sonstiges-leipziger-wohnung-übergeben-mietvertrag-bis-30-11--jqf709i1vtxanxm.md) | 2026-11-27 | 2026-11-20 |
 | studio | [Studio · Entendrachen entmüllen (Platz schaffen)](faeden/studio--studio-entendrachen-entmüllen-platz-schaffen--7mx0jh0mt8ey1w8.md) | 2026-11-16 | 2026-11-12 |

@@ -1,11 +1,10 @@
 # Dialog-Tool → MineHandy (Akademie-Bildungsserver)
 
-Projekt `historycraft` · id `ivljb46sdc292fo` · aktualisiert 2026-11-20 09:04
+Projekt `historycraft` · id `ivljb46sdc292fo` · aktualisiert 2026-11-23 12:49
 
 ## Stand
 
-20.11.2026 (Max): Läuft soweit, Max reagiert hier eher als er agiert. Keine Fälligkeit mehr; wird aktiv, wenn Tobias oder Amalie sich melden.
-— 15.11.2026: Rollen geklärt: Tobias entscheidet (für Max maßgeblich, hat sich noch nicht gemeldet), Thomas ist ehrenamtlicher Server-Admin und wird voraussichtlich nichts freigeben. 4d (Pull aus der Mod, braucht secure.http_mods) deshalb geparkt, nicht gebaut. Minimalweg steht: Mod + ZIP aus „Weitergeben…“, Editor 0.1.1 online, Testserver + API auf dem vServer als Demo. Bug bei Amalie bestätigt (0.1.0: beide Window-Knoten beim Start sichtbar an (0,0), headless belegt).
+23.11.2026: PR 18 (Knopf „Figur hier setzen“/„Figur entfernen“ in der Bind-Liste, NPCs stehen sofort und sind unverwundbar) auf Max' Anweisung gemerged, main = bc14932, CI grün. Testserver und Download-Seite (dialoge-mod-2026-11-23d-npc.zip, PDFs) auf diesem Stand, Ops-Changelog gepflegt. Stab-Bedienung jetzt: Linksklick Block → Liste mit „Figur hier setzen“; Linksklick Figur → Liste mit Dialog/Fenster/Name/Skin/„Figur entfernen“; Rechtsklick → lösen.
 
 ## Offen
 
@@ -13,12 +12,16 @@ Fehlen (nicht auf ContentDB, eigene Mods oder nur Git): advnumbers, bale, bible,
 
 ## Nächster Schritt
 
-Auf Tobias warten (Bedarf ja/nein). Bis dahin nichts bauen. Falls ja: Thomas bekommt fuer-admins-kurz.pdf + ZIP-Weg; 4d nur, wenn jemand die drei Zeilen in minetest.conf freigibt. Amalie testet 0.1.1.
+Max testet auf dem Testserver. Kurzantwort an Thomas (Mod-ZIP heißt dialoge-mod-2026-11-23d-npc.zip). Offen: Skins über Editor-ZIP/API; Tobias' Entscheidung.
 
 ## Ablage
 
-github.com/baerimbild/luanti-dialoge, luanti-dialoge-api, luanti-dialoge-testserver | wombat: /home/max/luanti-dialoge-testserver (.env, data/worlds/test)
+Server: /root/beispieldialoge-vertont-2026-11-23.zip, /root/vertonung-einspielen.sh; Download-Seite dialoge-editor.duckdevlab.com; Ops-Doku dienste/luanti-dialoge.md „Vertonte Beispiele“
 
 ## Prio
 
 normal
+
+## Aufwand
+
+Claude Code Cloud, ca. 30 min, ElevenLabs ~1350 Zeichen
