@@ -4,7 +4,7 @@
 
 | Projekt | Faden | fällig | zuletzt |
 |---|---|---|---|
-| historycraft | [Dialog-Tool → MineHandy (Akademie-Bildungsserver)](faeden/historycraft--dialog-tool-minehandy-akademie-bildungsserver--ivljb46sdc292fo.md) |  | 2026-11-23 |
+| historycraft | [Luanti-Dialoge: Rollen und Gruppen (Variante A)](faeden/historycraft--luanti-dialoge-rollen-und-gruppen-variante-a--ivljb46sdc292fo.md) |  | 2026-11-24 |
 | sonstiges | [Sonstiges · RimWorld With You (Familien-Mod bis Weihnachten 2026)](faeden/sonstiges--sonstiges-rimworld-with-you-familien-mod-bis-weihnachten-2026--fj5gaao55e1pf5y.md) | 2026-11-22 | 2026-11-21 |
 | ttrpg | [TTRPG · Wandering Shell Webapp (Repo + Claude-Code-Auftrag)](faeden/ttrpg--ttrpg-wandering-shell-webapp-repo-claude-code-auftrag--hgxabvmilxg4xt7.md) | 2026-11-22 | 2026-11-21 |
 | studio | [Studio · Struktur-Audit + Master-Claude (Überblick über alle Agents) – WICHTIG](faeden/studio--studio-struktur-audit-master-claude-überblick-über-alle-agents-wichtig--0jgamas2so6mxxe.md) | 2026-11-30 | 2026-11-20 |

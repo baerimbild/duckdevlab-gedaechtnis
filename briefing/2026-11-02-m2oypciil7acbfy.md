@@ -1,10 +1,10 @@
-## created
+## woche
 
-2026-11-02 07:15:16.424Z
+2026-W44
 
-## gelesen
+## titel
 
-false
+KW 44 2026 · KI und Kreativ-Tools
 
 ## inhalt
 
@@ -63,22 +63,6 @@ Quellen: https://docs.comfy.org/changelog · https://huggingface.co/akhaliq/MOSS
 - **Claude Opus 4.8 Fast Mode:** deprecated seit 30.10., Abschaltung 30.11.; Anthropic verweist auf Opus 5.5.
 
 
-## planka_card
-
-1899282480997860618
-
-## quellen
-
-[{"titel": "Scenario 3D OS Agent Skills (GitHub)", "url": "https://github.com/scenario-labs/skills"}, {"titel": "Ramen Aura Autopilot (GitHub)", "url": "https://github.com/ramenvr/autopilot"}, {"titel": "Claude Code Changelog", "url": "https://code.claude.com/docs/en/changelog"}, {"titel": "HairDeck Modellkarte", "url": "https://huggingface.co/hyz317/HairDeck"}, {"titel": "HairDeck Paper (arXiv 2610.40599)", "url": "https://arxiv.org/abs/2610.40599"}, {"titel": "Idol Modellkarte", "url": "https://huggingface.co/speridlabs/idol"}, {"titel": "Audio8-TTS-Realistic-0.6b Modellkarte", "url": "https://huggingface.co/Edge0/Audio8-TTS-Realistic-0.6b"}, {"titel": "Nemotron 3.5 Transcribe 30B-A4B Modellkarte", "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B"}, {"titel": "ComfyUI Changelog", "url": "https://docs.comfy.org/changelog"}, {"titel": "MOSS-Image-IDM-2-Steps", "url": "https://huggingface.co/akhaliq/MOSS-Image-IDM-2-Steps"}, {"titel": "Godot 4.8 beta 2", "url": "https://godotengine.org/article/dev-snapshot-godot-4-8-beta-2/"}, {"titel": "Hi3D v1.0 Modellkarte", "url": "https://huggingface.co/hi3d-official/Hi3Dv1.0"}, {"titel": "Fish Audio Drama 3 Modellkarte", "url": "https://huggingface.co/fishaudio/drama-3"}, {"titel": "Comfy-Org Fibo 2.0 (Lizenz CC BY-NC)", "url": "https://huggingface.co/Comfy-Org/Fibo-2.0"}]
-
-## titel
-
-KW 44 2026 · KI und Kreativ-Tools
-
-## updated
-
-2026-11-02 07:15:16.424Z
-
 ## vorschlaege
 
 **A. Scenario-Skills für Godot und Blender in Claude Code installieren (1–2 h).** `npx skills add scenario-labs/skills --skill godot` (plus `blender`), dann mit dem Inner-Shell-Projekt eine Prozedur testen (z. B. Szenen-Audit oder Export-Pipeline). Bringt geprüfte 4.7-Arbeitsabläufe neben deinem Godot MCP; die Generierungs-Skills ohne Scenario-Account einfach weglassen. Risiko: nur auf macOS verifiziert, Windows-Pfade prüfen.
@@ -87,6 +71,22 @@ KW 44 2026 · KI und Kreativ-Tools
 
 **C. Autopilot-Addon im Broken-Shell-Prototyp einhängen und einen Loop autonom testen lassen (2–3 h).** Addon ins Projekt, Dock aktivieren, `autopilot connect claude` probieren (ob der Claude-Code-Pfad mit Godot geht, ist in der Doku offen – sonst BYOK-API-Key). Bringt wiederholbare Kampf-/Checkpoint-Tests ohne eigenes Durchspielen; gute Vorstufe für Multiplayer-Regressionstests in Inner Shell.
 
-## woche
+## quellen
 
-2026-W44
+[{"titel":"Scenario 3D OS Agent Skills (GitHub)","url":"https://github.com/scenario-labs/skills"},{"titel":"Ramen Aura Autopilot (GitHub)","url":"https://github.com/ramenvr/autopilot"},{"titel":"Claude Code Changelog","url":"https://code.claude.com/docs/en/changelog"},{"titel":"HairDeck Modellkarte","url":"https://huggingface.co/hyz317/HairDeck"},{"titel":"HairDeck Paper (arXiv 2610.40599)","url":"https://arxiv.org/abs/2610.40599"},{"titel":"Idol Modellkarte","url":"https://huggingface.co/speridlabs/idol"},{"titel":"Audio8-TTS-Realistic-0.6b Modellkarte","url":"https://huggingface.co/Edge0/Audio8-TTS-Realistic-0.6b"},{"titel":"Nemotron 3.5 Transcribe 30B-A4B Modellkarte","url":"https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B"},{"titel":"ComfyUI Changelog","url":"https://docs.comfy.org/changelog"},{"titel":"MOSS-Image-IDM-2-Steps","url":"https://huggingface.co/akhaliq/MOSS-Image-IDM-2-Steps"},{"titel":"Godot 4.8 beta 2","url":"https://godotengine.org/article/dev-snapshot-godot-4-8-beta-2/"},{"titel":"Hi3D v1.0 Modellkarte","url":"https://huggingface.co/hi3d-official/Hi3Dv1.0"},{"titel":"Fish Audio Drama 3 Modellkarte","url":"https://huggingface.co/fishaudio/drama-3"},{"titel":"Comfy-Org Fibo 2.0 (Lizenz CC BY-NC)","url":"https://huggingface.co/Comfy-Org/Fibo-2.0"}]
+
+## planka_card
+
+1899282480997860618
+
+## gelesen
+
+0
+
+## created
+
+2026-11-02 07:15:16.424Z
+
+## updated
+
+2026-11-02 07:15:16.424Z

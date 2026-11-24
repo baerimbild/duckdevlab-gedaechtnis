@@ -1,10 +1,10 @@
-## created
+## woche
 
-2026-11-09 07:14:29.415Z
+2026-W45
 
-## gelesen
+## titel
 
-false
+KI und Tools · KW 45 2026
 
 ## inhalt
 
@@ -67,22 +67,6 @@ Quelle: https://www.gamedeveloper.com/programming/anthropic-appears-to-have-orde
 - Blender 5.2 LTS bleibt aktuell, kein 5.3-Beta-Termin veröffentlicht. Open WebUI (0.12.4 vom 25.10.), ComfyUI (0.43.0 vom 27.10.), ACE-Step, Qwen3-TTS, Luanti: keine Releases im Fenster.
 
 
-## planka_card
-
-1904355320491148560
-
-## quellen
-
-[{"titel": "Claude Code Changelog", "url": "https://code.claude.com/docs/en/changelog"}, {"titel": "Ollama Releases (0.40.14/0.40.15)", "url": "https://github.com/ollama/ollama/releases"}, {"titel": "Qwen3.8-27B Modellkarte", "url": "https://huggingface.co/Qwen/Qwen3.8-27B"}, {"titel": "CCORE Qwen3.5-4B-GLB-3D-Coder", "url": "https://huggingface.co/ccore/Qwen3.5-4B-GLB-3D-Coder"}, {"titel": "LibreTRELLIS2-4b", "url": "https://huggingface.co/LibreYOLO/LibreTRELLIS2-4b"}, {"titel": "HairDeck Modellkarte", "url": "https://huggingface.co/OxBee/HairDeck"}, {"titel": "HairDeck Code", "url": "https://github.com/hyz317/HairDeck"}, {"titel": "Audio8-TTS-Realistic-Air", "url": "https://huggingface.co/Edge0/Audio8-TTS-Realistic-Air"}, {"titel": "Game Developer: Claude Code und Spiel-Nachbauten", "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games"}, {"titel": "Runtimewire: UE 5.9 Preview angekündigt", "url": "https://runtimewire.com/article/epic-unreal-engine-5-9-preview-web-target"}, {"titel": "GodotFest 2026 Schedule", "url": "https://godotfest.com/schedule/"}, {"titel": "Godot Blog", "url": "https://godotengine.org/blog/"}, {"titel": "Idol (speridlabs)", "url": "https://huggingface.co/speridlabs/idol"}, {"titel": "Underdog Woof", "url": "https://huggingface.co/ConwayResearch/Underdog-Woof"}]
-
-## titel
-
-KI und Tools · KW 45 2026
-
-## updated
-
-2026-11-09 07:14:29.415Z
-
 ## vorschlaege
 
 **A. GLB-3D-Coder als Prop-Generator testen (1–2 h).** Q8-GGUF in LM Studio oder Ollama laden (Kontext ≥ 64k, Output unbegrenzt, Thinking an), 5 Makermon-/Inner-Shell-Props prompten, GLB in Godot 4.7 importieren und in Blender prüfen. Bringt: Einschätzung, ob Greybox-Props künftig per Prompt statt per Hand entstehen.
@@ -91,6 +75,22 @@ KI und Tools · KW 45 2026
 
 **C. Claude-Code-Settings für unbeaufsichtigte Läufe (0,5 h).** Auf 2.1.319 aktualisieren, in den Projekt-Settings `permissions.blockWritesOutsideWorkingDirectories: true` und für Scheduled Tasks `permissions.denyInsteadOfPrompting: true` setzen. Bringt: Läufe hängen nicht mehr an Freigaben, Schreibzugriffe bleiben im Projektordner.
 
-## woche
+## quellen
 
-2026-W45
+[{"titel":"Claude Code Changelog","url":"https://code.claude.com/docs/en/changelog"},{"titel":"Ollama Releases (0.40.14/0.40.15)","url":"https://github.com/ollama/ollama/releases"},{"titel":"Qwen3.8-27B Modellkarte","url":"https://huggingface.co/Qwen/Qwen3.8-27B"},{"titel":"CCORE Qwen3.5-4B-GLB-3D-Coder","url":"https://huggingface.co/ccore/Qwen3.5-4B-GLB-3D-Coder"},{"titel":"LibreTRELLIS2-4b","url":"https://huggingface.co/LibreYOLO/LibreTRELLIS2-4b"},{"titel":"HairDeck Modellkarte","url":"https://huggingface.co/OxBee/HairDeck"},{"titel":"HairDeck Code","url":"https://github.com/hyz317/HairDeck"},{"titel":"Audio8-TTS-Realistic-Air","url":"https://huggingface.co/Edge0/Audio8-TTS-Realistic-Air"},{"titel":"Game Developer: Claude Code und Spiel-Nachbauten","url":"https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games"},{"titel":"Runtimewire: UE 5.9 Preview angekündigt","url":"https://runtimewire.com/article/epic-unreal-engine-5-9-preview-web-target"},{"titel":"GodotFest 2026 Schedule","url":"https://godotfest.com/schedule/"},{"titel":"Godot Blog","url":"https://godotengine.org/blog/"},{"titel":"Idol (speridlabs)","url":"https://huggingface.co/speridlabs/idol"},{"titel":"Underdog Woof","url":"https://huggingface.co/ConwayResearch/Underdog-Woof"}]
+
+## planka_card
+
+1904355320491148560
+
+## gelesen
+
+0
+
+## created
+
+2026-11-09 07:14:29.415Z
+
+## updated
+
+2026-11-09 07:14:29.415Z

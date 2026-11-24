@@ -1,7 +1,7 @@
 # Gedächtnis-Export
 
-Automatischer Markdown-Export des PocketBase-Gedächtnisses (`pocketbase.innershell.dev`, Collections
-`claude_bereich`, `claude_stand`, `claude_briefing`). Quelle der Wahrheit ist PocketBase; dieses Repo ist
+Automatischer Markdown-Export des Gedächtnis-MCP (eigene SQLite, Sicherung
+`/opt/mcp/data/sicherung/aktuell.db`). Quelle der Wahrheit ist der Gedächtnis-MCP; dieses Repo ist
 Lesekopie, Versionierung (Git-Historie) und Backup. Nicht hier editieren – Änderungen über den
 Gedächtnis-MCP (`bereich_schreiben`, `stand_schreiben`).
 
@@ -10,4 +10,4 @@ Gedächtnis-MCP (`bereich_schreiben`, `stand_schreiben`).
 - `briefing/` – Wochenbriefings
 
 Export: `/usr/local/bin/gedaechtnis-export.py`, täglich per Cron (siehe `/etc/cron.d/duckdevlab-backup`).
-Letzter Lauf: 2026-11-24 03:31
+Letzter Lauf: 2026-11-24 13:39
