@@ -10,4 +10,4 @@ Gedächtnis-MCP (`bereich_schreiben`, `stand_schreiben`).
 - `briefing/` – Wochenbriefings
 
 Export: `/usr/local/bin/gedaechtnis-export.py`, täglich per Cron (siehe `/etc/cron.d/duckdevlab-backup`).
-Letzter Lauf: 2026-11-24 13:39
+Letzter Lauf: 2026-11-25 03:31

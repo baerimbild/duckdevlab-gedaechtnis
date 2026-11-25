@@ -55,6 +55,7 @@
 | [rimworld_with_you](bereiche/rimworld_with_you.md) | RimWorld With You – Familien-Mod (Konzept, Entscheidungen, Ablage) | 2026-11-14 |
 | [rimworld_with_you_besetzung](bereiche/rimworld_with_you_besetzung.md) | RimWorld With You · Plüsch-Besetzung (Urschl, Niv/ernste Ente, Bär, Schnorbs) | 2026-11-12 |
 | [studio](bereiche/studio.md) | Studio / DuckDevLab (Infrastruktur, Hosting, Organisation) | 2026-11-14 |
+| [vorrat](bereiche/vorrat.md) | Vorrats- & Einkaufs-App (Max & Julia) | 2026-11-24 |
 | [wandering_shell_modul_schwellenpunkt](bereiche/wandering_shell_modul_schwellenpunkt.md) | Wandering Shell · Weltmodul-Prototyp „Der Schwellenpunkt“ (Max mit Gemini, 20.11.2026) | 2026-11-21 |
 | [wandering_shell_roguelite_e](bereiche/wandering_shell_roguelite_e.md) | Wandering Shell · Idee: Roguelite mit jungem e als Protagonist (Max, 07.11.2026) | 2026-11-07 |
 | [wandering_shell_roguelite_e_2](bereiche/wandering_shell_roguelite_e_2.md) | Wandering Shell · Roguelite mit jungem e (Fortsetzung): Avatar, Progression, Ton | 2026-11-07 |

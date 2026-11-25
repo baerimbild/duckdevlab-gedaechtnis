@@ -4,6 +4,8 @@
 
 | Projekt | Faden | fällig | zuletzt |
 |---|---|---|---|
+| sonstiges | [Vorrats- & Einkaufs-App für Max & Julia](faeden/sonstiges--vorrats-einkaufs-app-für-max-julia--fvr7lgtvihygj6o.md) |  | 2026-11-24 |
+| studio | [Studio · Gedächtnis-MCP auf eigene SQLite, PocketBase-WAL-Spaltung](faeden/studio--studio-gedächtnis-mcp-auf-eigene-sqlite-pocketbase-wal-spaltung--emizrin0v0968er.md) |  | 2026-11-24 |
 | historycraft | [Luanti-Dialoge: Rollen und Gruppen (Variante A)](faeden/historycraft--luanti-dialoge-rollen-und-gruppen-variante-a--ivljb46sdc292fo.md) |  | 2026-11-24 |
 | sonstiges | [Sonstiges · RimWorld With You (Familien-Mod bis Weihnachten 2026)](faeden/sonstiges--sonstiges-rimworld-with-you-familien-mod-bis-weihnachten-2026--fj5gaao55e1pf5y.md) | 2026-11-22 | 2026-11-21 |
 | ttrpg | [TTRPG · Wandering Shell Webapp (Repo + Claude-Code-Auftrag)](faeden/ttrpg--ttrpg-wandering-shell-webapp-repo-claude-code-auftrag--hgxabvmilxg4xt7.md) | 2026-11-22 | 2026-11-21 |
