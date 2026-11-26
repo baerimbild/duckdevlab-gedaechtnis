@@ -1,8 +1,12 @@
 # Studio · Baernetz
 
-Projekt `studio` · id `huylgax5w21yok1` · aktualisiert 2026-11-12 11:24 · fällig 2026-11-16
+Projekt `studio` · id `huylgax5w21yok1` · aktualisiert 2026-11-25 12:25 · fällig 2026-11-16
 
 ## Stand
+
+25.11.2026 13:30: Zugang steht und ist getestet. Max hat Policy + Tags gesetzt (vserver = tag:vserver, wombat = tag:heimserver). Vom vServer: `ssh wombat` (max) und `ssh root@100.82.163.121` ohne Browser-Check. wake-illumina fehlte seit dem Neuaufsetzen → neu als Python-Skript /usr/local/bin/wake-illumina; IlluminaWS damit geweckt, nach ~50 s im Tailnet. Sprung wombat → IlluminaWS (Host illumina, Windows-OpenSSH) und WSL getestet (RTX 5090, ~/ki). vServer-Wrapper /root/bin/illumina. Doku netzwerk/wombat.md + Changelog (duckdevlab-docs c5df1e7), Register-Kurzstand ergänzt. Hinweis: /opt/ops/docs/src hat uncommittete Changelog-Einträge einer anderen Instanz (Luanti 24.11.), nicht angefasst; Doku-Commit lief über Frischklon.
+
+25.11.2026 13:20: Dauerhafter Claude-Zugang vServer → wombat vorbereitet. Ist: wombat online (100.82.163.121), Tailscale-SSH im check-Modus, jeder Versuch vom vServer verlangt Browser-Auth; IlluminaWS seit 22.11. offline. Vorbereitet: Host-Alias `wombat` in /root/.ssh/config auf dem vServer (Backup config.bak-2026-11-25), ACL-Schnipsel /mnt/project-files/wombat-zugang/tailscale-acl-schnipsel.hujson.
 
 06.11.2026 21:50: Route 192.168.1.0/24 für wombat von Max freigegeben; vServer mit --accept-routes, erreicht wombat-LAN (192.168.1.144, Jellyfin) und damit das Baernetz. Entendrache: SSH-Config Host wombat → 100.82.163.121 (vorher LAN-IP), ssh wombat geht aus Leipzig. IlluminaWS: war an, weil Julia am 05.11. den Reachy-Agenten vorgeführt hat; `01` hatte „kein Standby“ gesetzt, also läuft er sonst durch. Max hat ihn per `ssh maxst@100.119.194.47 "shutdown /s /t 10"` heruntergefahren (Windows-OpenSSH auf IlluminaWS, Port 22 im Tailnet; Sunshine 47989). Entscheidung Standby-nach-30-min vs. Dauerlauf steht noch aus (Einzeiler mit powercfg + WakeToRun für die Nachtsicherung liegt im Chat). Julias Knoten: bosshuke (fester Rechner), laborbaer (Surface) – Konto hookeyhook, ok.
 
@@ -18,7 +22,7 @@ Entscheidung IlluminaWS: Standby nach 30 min (powercfg, Nachtsicherung mit WakeT
 
 ## Nächster Schritt
 
-Backups vServer → wombat über das Tailnet (restic rest-server append-only auf wombat), dann Proxy/Portainer aus dem NPM nehmen. Vorher kurz mit Max: Standby-Entscheidung für IlluminaWS.
+Offsite-Backup vServer → wombat (restic rest-server append-only), jetzt ohne Browser-Check direkt vom vServer einrichtbar. Offen: Standby-Entscheidung IlluminaWS; optional vServer-Key direkt in IlluminaWS administrators_authorized_keys statt Sprung über wombat.
 
 ## Ablage
 

@@ -48,10 +48,11 @@
 | [investment_hub](bereiche/investment_hub.md) | Investment Hub (Anlage-Briefing für Max' Vater) · Konzept, Architektur, Entscheidungen | 2026-11-13 |
 | [investment_hub_anforderungen](bereiche/investment_hub_anforderungen.md) | Investment Hub · Anforderungen: Ausgangslage Vater, Interviewleitfaden, Antworten | 2026-11-13 |
 | [investment_hub_recherche](bereiche/investment_hub_recherche.md) | Investment Hub · Recherche: bestehende Lösungen, Daten, Modelle, Order-Wege | 2026-11-13 |
+| [magic](bereiche/magic.md) | Magic-Sammlung (MTG) · Self-hosted App: Erfassung, Wert, 1v1-Commander-Matching | 2026-11-25 |
 | [makermon](bereiche/makermon.md) | Makermon (MakerDays-Kinderprojekt) | 2026-11-02 |
 | [materia_prima_lore](bereiche/materia_prima_lore.md) | Materia Prima · Lore (altes Universum von Max) | 2026-11-04 |
 | [materia_prima_lore_2](bereiche/materia_prima_lore_2.md) | Materia Prima · Lore II: Die Fremden, Encephalon, Verbindung zu den Schalen | 2026-11-06 |
-| [register](bereiche/register.md) | Register – Geräte, Claude-Instanzen, Rechte, Repos (vor „ich kann das nicht“ lesen) | 2026-11-12 |
+| [register](bereiche/register.md) | Register – Geräte, Claude-Instanzen, Rechte, Repos (vor „ich kann das nicht“ lesen) | 2026-11-25 |
 | [rimworld_with_you](bereiche/rimworld_with_you.md) | RimWorld With You – Familien-Mod (Konzept, Entscheidungen, Ablage) | 2026-11-14 |
 | [rimworld_with_you_besetzung](bereiche/rimworld_with_you_besetzung.md) | RimWorld With You · Plüsch-Besetzung (Urschl, Niv/ernste Ente, Bär, Schnorbs) | 2026-11-12 |
 | [studio](bereiche/studio.md) | Studio / DuckDevLab (Infrastruktur, Hosting, Organisation) | 2026-11-14 |

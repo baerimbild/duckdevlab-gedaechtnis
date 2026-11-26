@@ -1,10 +1,10 @@
 # Vorrats- & Einkaufs-App für Max & Julia
 
-Projekt `sonstiges` · id `fvr7lgtvihygj6o` · aktualisiert 2026-11-24 14:48
+Projekt `sonstiges` · id `fvr7lgtvihygj6o` · aktualisiert 2026-11-25 13:34
 
 ## Stand
 
-24.11.2026, 15:55: Vorrat live mit Urschl-Theme (86cd48a, 38713f2): Bilder aus Plüsch-DB (neuietv37ie6gdl) als webp in web/urschl/, App-Icon Urschl-Kopf, Login/Kopf-Avatar (Tipp = Kommentar)/Kochen/Einkauf/leere Zustände, gelegentliche Urschl-Kommentare (Sätze in URSCHL in app.js, immer „das Urschl“, Orakel-Stil: Teig, Bahnhof/Züge, weggenehmigt, Dimension 17, Nanosonden, Zoharhuhn). Neue Spalte artikel.nachkaufen: Schalter im Artikel-Sheet, Import-Marker ~, Plan lässt sie weg, von Hand eintragen geht immer. Mobil-Fixes (Kachelnamen max 3 Zeilen, Umbruch langer Wörter, dvh, text-size-adjust, kompakter Koch-Hinweis). Doku PR #6 gemergt. Sicherung vorrat-vor-urschl-2026-11-24.db ok; vorrat-vor-gerichte-2026-11-24.db ist LEER (Max kann sie löschen).
+25.11.2026: Vorrat 5415ca2 live. Kachel geteilt (links −, rechts +; mit Zahl Bestand ±1, ohne Zahl da→Neige→leer), langer Druck = +1 auf die Einkaufsliste (POST /api/liste/plus), Über-Soll grün mit „+N über Soll“. „immer da“ heißt jetzt Grundvorrat. artikel.nachkaufen: 1 automatisch (nur Grundvorrat/Soll/Muss-Gruppe kommen bei leer auf die Liste), 2 immer, 0 nie; Import ~ nie, + immer. Nur 16 von 75 Artikeln sind damit automatisch; Gericht-Zutaten ohne Automatik: Schokocreme, Erdnusscreme, Hafersahne, Jasminreis, Spaghetti, Kartoffeln, Marmelade (Max gefragt, ob Grundvorrat). Sicherung vorrat-vor-kachel-2026-11-25.db. Doku PR #11.
 
 ## Offen
 

@@ -1,10 +1,10 @@
 # Register – Geräte, Claude-Instanzen, Rechte, Repos (vor „ich kann das nicht“ lesen)
 
-`key: register` · aktualisiert 2026-11-12 12:08 · id `5sr5fbfrkowiwwr`
+`key: register` · aktualisiert 2026-11-25 12:25 · id `5sr5fbfrkowiwwr`
 
 ## Kurzstand
 
-12.11.2026: Nachtrag zur Entendrachen-Bridge (keine Shell, Computer-Steuerung unerwünscht) und zu stand_schreiben. — 06.11.2026: vServer hat jetzt ausgehendes SSH/Git zu GitHub (account-weiter Key, Max' Entscheidung 06.11.); /opt/ops/docs/src ist ein echter Klon von duckdevlab-docs; tägliches Backup + Gedächtnis-Export laufen. — 03.11.2026 angelegt im Audit. Jede Instanz liest dieses Register, bevor sie behauptet, etwas nicht zu können, und trägt sich ein, wenn sie neu eingerichtet wird. Rechte-Entscheidungen von Max vom 03.11.: wombat volles sudo; WSL darf KI-Dienste starten/stoppen, Pakete installieren, Reachy-Agent deployen; Desktop-App auf IlluminaWS für Ordnerzugriff E:\Studio und Computer-Steuerung (Godot, Blender, ComfyUI). Repos: Stand 03.11. keine offenen PRs, aber viele gemergte Branches liegen herum.
+25.11.2026: vServer kommt dauerhaft ohne Browser-Check auf wombat (Tailscale-Tags tag:vserver → tag:heimserver, SSH accept als max und root). Damit erreicht jede Session mit Connector „Server“ das Heimnetz: `ssh wombat …`, `ssh root@100.82.163.121 …`, IlluminaWS wecken mit `ssh wombat wake-illumina`, Befehle auf IlluminaWS mit `/root/bin/illumina <befehl>` (Sprung über wombat, Windows-OpenSSH; WSL: `illumina wsl -e bash -lc '…'`). max auf wombat hat sudo nur mit Passwort, für Root-Arbeit root@ nehmen. Doku: netzwerk/wombat.md, Changelog 25.11. — 12.11.2026: Nachtrag zur Entendrachen-Bridge (keine Shell, Computer-Steuerung unerwünscht) und zu stand_schreiben. — 06.11.2026: vServer hat jetzt ausgehendes SSH/Git zu GitHub (account-weiter Key, Max' Entscheidung 06.11.); /opt/ops/docs/src ist ein echter Klon von duckdevlab-docs; tägliches Backup + Gedächtnis-Export laufen. — 03.11.2026 angelegt im Audit. Jede Instanz liest dieses Register, bevor sie behauptet, etwas nicht zu können, und trägt sich ein, wenn sie neu eingerichtet wird. Rechte-Entscheidungen von Max vom 03.11.: wombat volles sudo; WSL darf KI-Dienste starten/stoppen, Pakete installieren, Reachy-Agent deployen; Desktop-App auf IlluminaWS für Ordnerzugriff E:\Studio und Computer-Steuerung (Godot, Blender, ComfyUI). Repos: Stand 03.11. keine offenen PRs, aber viele gemergte Branches liegen herum.
 
 ## Regeln
 

@@ -4,7 +4,9 @@
 
 | Projekt | Faden | fällig | zuletzt |
 |---|---|---|---|
-| sonstiges | [Vorrats- & Einkaufs-App für Max & Julia](faeden/sonstiges--vorrats-einkaufs-app-für-max-julia--fvr7lgtvihygj6o.md) |  | 2026-11-24 |
+| sonstiges | [Magic-Sammlung · Self-hosted App (Erfassung, Wert, 1v1-Commander-Matching)](faeden/sonstiges--magic-sammlung-self-hosted-app-erfassung-wert-1v1-commander-matching--r3fqhuv7frxovj6.md) |  | 2026-11-25 |
+| sonstiges | [Vorrats- & Einkaufs-App für Max & Julia](faeden/sonstiges--vorrats-einkaufs-app-für-max-julia--fvr7lgtvihygj6o.md) |  | 2026-11-25 |
+| studio | [Studio · Baernetz](faeden/studio--studio-baernetz--huylgax5w21yok1.md) | 2026-11-16 | 2026-11-25 |
 | studio | [Studio · Gedächtnis-MCP auf eigene SQLite, PocketBase-WAL-Spaltung](faeden/studio--studio-gedächtnis-mcp-auf-eigene-sqlite-pocketbase-wal-spaltung--emizrin0v0968er.md) |  | 2026-11-24 |
 | historycraft | [Luanti-Dialoge: Rollen und Gruppen (Variante A)](faeden/historycraft--luanti-dialoge-rollen-und-gruppen-variante-a--ivljb46sdc292fo.md) |  | 2026-11-24 |
 | sonstiges | [Sonstiges · RimWorld With You (Familien-Mod bis Weihnachten 2026)](faeden/sonstiges--sonstiges-rimworld-with-you-familien-mod-bis-weihnachten-2026--fj5gaao55e1pf5y.md) | 2026-11-22 | 2026-11-21 |
@@ -20,7 +22,6 @@
 | studio | [Studio · Entendrachen entmüllen (Platz schaffen)](faeden/studio--studio-entendrachen-entmüllen-platz-schaffen--7mx0jh0mt8ey1w8.md) | 2026-11-16 | 2026-11-12 |
 | studio | [Studio · vServer-Umbau und Absicherung](faeden/studio--studio-vserver-umbau-und-absicherung--6b2j9fs9widn4uy.md) | 2026-11-16 | 2026-11-12 |
 | makermon | [Makermon · Weiterführung nach den Maker Days](faeden/makermon--makermon-weiterführung-nach-den-maker-days--5e8ir1ps1yzea54.md) | 2026-11-16 | 2026-11-12 |
-| studio | [Studio · Baernetz](faeden/studio--studio-baernetz--huylgax5w21yok1.md) | 2026-11-16 | 2026-11-12 |
 | studio | [Studio · Sites-Panel und Deploy-Pipeline](faeden/studio--studio-sites-panel-und-deploy-pipeline--wmiuiccuefp6cr6.md) | 2026-11-16 | 2026-11-12 |
 | inner_shell | [Inner Shell · Projektplanung neu (November 2026)](faeden/inner_shell--inner-shell-projektplanung-neu-november-2026--kymbx8b7qkmkqfm.md) | 2026-11-16 | 2026-11-12 |
 | studio | [Studio · Crafting Apps (PhotoCraft & Co.) – Einordnung Werkbank](faeden/studio--studio-crafting-apps-photocraft-co-einordnung-werkbank--wupu64r7zaoyhvv.md) | 2026-11-16 | 2026-11-12 |
