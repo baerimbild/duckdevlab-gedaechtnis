@@ -49,6 +49,8 @@
 | [investment_hub_anforderungen](bereiche/investment_hub_anforderungen.md) | Investment Hub · Anforderungen: Ausgangslage Vater, Interviewleitfaden, Antworten | 2026-11-13 |
 | [investment_hub_recherche](bereiche/investment_hub_recherche.md) | Investment Hub · Recherche: bestehende Lösungen, Daten, Modelle, Order-Wege | 2026-11-13 |
 | [magic](bereiche/magic.md) | Magic-Sammlung (MTG) · Self-hosted App: Erfassung, Wert, 1v1-Commander-Matching | 2026-11-25 |
+| [magic_charakterdecks](bereiche/magic_charakterdecks.md) | Magic · Charakterdecks Max & Julia + Plüsch-Commander (Custom) | 2026-11-26 |
+| [magic_hausformat](bereiche/magic_hausformat.md) | Magic · Hausformat Commander zu zweit/dritt | 2026-11-26 |
 | [makermon](bereiche/makermon.md) | Makermon (MakerDays-Kinderprojekt) | 2026-11-02 |
 | [materia_prima_lore](bereiche/materia_prima_lore.md) | Materia Prima · Lore (altes Universum von Max) | 2026-11-04 |
 | [materia_prima_lore_2](bereiche/materia_prima_lore_2.md) | Materia Prima · Lore II: Die Fremden, Encephalon, Verbindung zu den Schalen | 2026-11-06 |

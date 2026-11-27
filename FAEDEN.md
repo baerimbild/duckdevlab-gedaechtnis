@@ -4,6 +4,7 @@
 
 | Projekt | Faden | fällig | zuletzt |
 |---|---|---|---|
+| sonstiges | [Hausautomation Randau](faeden/sonstiges--hausautomation-randau--dlxney09s6esxml.md) |  | 2026-11-26 |
 | sonstiges | [Magic-Sammlung · Self-hosted App (Erfassung, Wert, 1v1-Commander-Matching)](faeden/sonstiges--magic-sammlung-self-hosted-app-erfassung-wert-1v1-commander-matching--r3fqhuv7frxovj6.md) |  | 2026-11-25 |
 | sonstiges | [Vorrats- & Einkaufs-App für Max & Julia](faeden/sonstiges--vorrats-einkaufs-app-für-max-julia--fvr7lgtvihygj6o.md) |  | 2026-11-25 |
 | studio | [Studio · Baernetz](faeden/studio--studio-baernetz--huylgax5w21yok1.md) | 2026-11-16 | 2026-11-25 |
